@@ -1,0 +1,100 @@
+[06-Nov-2014 02:42:37 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[06-Nov-2014 02:42:37 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[06-Nov-2014 02:42:37 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[06-Nov-2014 02:42:37 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[06-Nov-2014 02:46:39 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[06-Nov-2014 02:46:39 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[06-Nov-2014 02:46:39 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[06-Nov-2014 02:46:39 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[10-Nov-2014 01:24:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[10-Nov-2014 01:24:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[10-Nov-2014 01:24:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[10-Nov-2014 01:24:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[16-Nov-2014 20:56:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[16-Nov-2014 20:56:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[16-Nov-2014 20:56:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[16-Nov-2014 20:56:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[16-Nov-2014 22:18:58 Europe/Paris] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp\www\testmysql.php on line 2
+[16-Nov-2014 22:18:59 Europe/Paris] PHP Stack trace:
+[16-Nov-2014 22:18:59 Europe/Paris] PHP   1. {main}() C:\wamp\www\testmysql.php:0
+[16-Nov-2014 22:18:59 Europe/Paris] PHP   2. mysql_connect() C:\wamp\www\testmysql.php:2
+[16-Nov-2014 22:19:01 Europe/Paris] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\wamp\www\testmysql.php on line 2
+[16-Nov-2014 22:19:01 Europe/Paris] PHP Stack trace:
+[16-Nov-2014 22:19:01 Europe/Paris] PHP   1. {main}() C:\wamp\www\testmysql.php:0
+[16-Nov-2014 22:19:01 Europe/Paris] PHP   2. mysql_connect() C:\wamp\www\testmysql.php:2
+[16-Nov-2014 22:19:01 Europe/Paris] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\wamp\www\testmysql.php on line 2
+[16-Nov-2014 22:19:01 Europe/Paris] PHP Stack trace:
+[16-Nov-2014 22:19:01 Europe/Paris] PHP   1. {main}() C:\wamp\www\testmysql.php:0
+[16-Nov-2014 22:19:01 Europe/Paris] PHP   2. mysql_connect() C:\wamp\www\testmysql.php:2
+[16-Nov-2014 22:19:51 Europe/Paris] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp\www\testmysql.php on line 2
+[16-Nov-2014 22:19:51 Europe/Paris] PHP Stack trace:
+[16-Nov-2014 22:19:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\testmysql.php:0
+[16-Nov-2014 22:19:51 Europe/Paris] PHP   2. mysql_connect() C:\wamp\www\testmysql.php:2
+[16-Nov-2014 22:19:53 Europe/Paris] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\wamp\www\testmysql.php on line 2
+[16-Nov-2014 22:19:53 Europe/Paris] PHP Stack trace:
+[16-Nov-2014 22:19:53 Europe/Paris] PHP   1. {main}() C:\wamp\www\testmysql.php:0
+[16-Nov-2014 22:19:53 Europe/Paris] PHP   2. mysql_connect() C:\wamp\www\testmysql.php:2
+[16-Nov-2014 22:19:53 Europe/Paris] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\wamp\www\testmysql.php on line 2
+[16-Nov-2014 22:19:53 Europe/Paris] PHP Stack trace:
+[16-Nov-2014 22:19:53 Europe/Paris] PHP   1. {main}() C:\wamp\www\testmysql.php:0
+[16-Nov-2014 22:19:53 Europe/Paris] PHP   2. mysql_connect() C:\wamp\www\testmysql.php:2
+[16-Nov-2014 21:22:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[16-Nov-2014 21:22:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[16-Nov-2014 21:22:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[16-Nov-2014 21:22:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[16-Nov-2014 22:22:19 Europe/Paris] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp\www\testmysql.php on line 2
+[16-Nov-2014 22:22:19 Europe/Paris] PHP Stack trace:
+[16-Nov-2014 22:22:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\testmysql.php:0
+[16-Nov-2014 22:22:19 Europe/Paris] PHP   2. mysql_connect() C:\wamp\www\testmysql.php:2
+[16-Nov-2014 22:22:21 Europe/Paris] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\wamp\www\testmysql.php on line 2
+[16-Nov-2014 22:22:21 Europe/Paris] PHP Stack trace:
+[16-Nov-2014 22:22:21 Europe/Paris] PHP   1. {main}() C:\wamp\www\testmysql.php:0
+[16-Nov-2014 22:22:21 Europe/Paris] PHP   2. mysql_connect() C:\wamp\www\testmysql.php:2
+[16-Nov-2014 22:22:21 Europe/Paris] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\wamp\www\testmysql.php on line 2
+[16-Nov-2014 22:22:21 Europe/Paris] PHP Stack trace:
+[16-Nov-2014 22:22:21 Europe/Paris] PHP   1. {main}() C:\wamp\www\testmysql.php:0
+[16-Nov-2014 22:22:21 Europe/Paris] PHP   2. mysql_connect() C:\wamp\www\testmysql.php:2
+[25-Nov-2014 00:03:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[25-Nov-2014 00:03:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[25-Nov-2014 00:03:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[25-Nov-2014 00:03:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[06-Dec-2014 21:54:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[06-Dec-2014 21:54:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[06-Dec-2014 21:54:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[06-Dec-2014 21:54:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[10-Dec-2014 02:54:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[10-Dec-2014 02:54:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[10-Dec-2014 02:54:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[10-Dec-2014 02:54:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0

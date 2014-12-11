@@ -1,0 +1,61 @@
+[Wed Nov 05 21:42:37.253886 2014] [mpm_winnt:notice] [pid 7212:tid 536] AH00455: Apache/2.4.9 (Win64) PHP/5.5.12 configured -- resuming normal operations
+[Wed Nov 05 21:42:37.253886 2014] [mpm_winnt:notice] [pid 7212:tid 536] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Wed Nov 05 21:42:37.253886 2014] [core:notice] [pid 7212:tid 536] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Wed Nov 05 21:42:37.254887 2014] [mpm_winnt:notice] [pid 7212:tid 536] AH00418: Parent: Created child process 7108
+[Wed Nov 05 21:42:37.735340 2014] [mpm_winnt:notice] [pid 7108:tid 464] AH00354: Child: Starting 64 worker threads.
+[Wed Nov 05 21:46:35.004081 2014] [mpm_winnt:notice] [pid 7212:tid 536] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Nov 05 21:46:37.005369 2014] [mpm_winnt:notice] [pid 7108:tid 464] AH00364: Child: All worker threads have exited.
+[Wed Nov 05 21:46:37.027375 2014] [mpm_winnt:notice] [pid 7212:tid 536] AH00430: Parent: Child process 7108 exited successfully.
+[Wed Nov 05 21:46:39.419829 2014] [mpm_winnt:notice] [pid 5792:tid 536] AH00455: Apache/2.4.9 (Win64) PHP/5.5.12 configured -- resuming normal operations
+[Wed Nov 05 21:46:39.420830 2014] [mpm_winnt:notice] [pid 5792:tid 536] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Wed Nov 05 21:46:39.420830 2014] [core:notice] [pid 5792:tid 536] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Wed Nov 05 21:46:39.421830 2014] [mpm_winnt:notice] [pid 5792:tid 536] AH00418: Parent: Created child process 1068
+[Wed Nov 05 21:46:39.907402 2014] [mpm_winnt:notice] [pid 1068:tid 464] AH00354: Child: Starting 64 worker threads.
+[Thu Nov 06 07:41:20.954556 2014] [mpm_winnt:notice] [pid 5792:tid 536] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Nov 06 07:41:27.631808 2014] [mpm_winnt:notice] [pid 1068:tid 464] AH00364: Child: All worker threads have exited.
+[Thu Nov 06 07:41:39.925417 2014] [mpm_winnt:notice] [pid 5792:tid 536] AH00430: Parent: Child process 1068 exited successfully.
+[Sun Nov 09 20:24:35.513689 2014] [mpm_winnt:notice] [pid 28452:tid 560] AH00455: Apache/2.4.9 (Win64) PHP/5.5.12 configured -- resuming normal operations
+[Sun Nov 09 20:24:35.526697 2014] [mpm_winnt:notice] [pid 28452:tid 560] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Sun Nov 09 20:24:35.526697 2014] [core:notice] [pid 28452:tid 560] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Sun Nov 09 20:24:35.527698 2014] [mpm_winnt:notice] [pid 28452:tid 560] AH00418: Parent: Created child process 32508
+[Sun Nov 09 20:24:35.866925 2014] [mpm_winnt:notice] [pid 32508:tid 464] AH00354: Child: Starting 64 worker threads.
+[Wed Nov 12 19:56:48.797330 2014] [mpm_winnt:notice] [pid 28452:tid 560] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Nov 12 19:56:51.099533 2014] [mpm_winnt:notice] [pid 32508:tid 464] AH00364: Child: All worker threads have exited.
+[Wed Nov 12 19:56:53.196793 2014] [mpm_winnt:notice] [pid 28452:tid 560] AH00430: Parent: Child process 32508 exited successfully.
+[Sun Nov 16 15:56:55.645804 2014] [mpm_winnt:notice] [pid 16720:tid 572] AH00455: Apache/2.4.9 (Win64) PHP/5.5.12 configured -- resuming normal operations
+[Sun Nov 16 15:56:55.655812 2014] [mpm_winnt:notice] [pid 16720:tid 572] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Sun Nov 16 15:56:55.655812 2014] [core:notice] [pid 16720:tid 572] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Sun Nov 16 15:56:55.656812 2014] [mpm_winnt:notice] [pid 16720:tid 572] AH00418: Parent: Created child process 16800
+[Sun Nov 16 15:56:56.250209 2014] [mpm_winnt:notice] [pid 16800:tid 472] AH00354: Child: Starting 64 worker threads.
+[Sun Nov 16 16:22:02.387714 2014] [mpm_winnt:notice] [pid 16720:tid 572] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Nov 16 16:22:04.458098 2014] [mpm_winnt:notice] [pid 16800:tid 472] AH00364: Child: All worker threads have exited.
+[Sun Nov 16 16:22:04.493120 2014] [mpm_winnt:notice] [pid 16720:tid 572] AH00430: Parent: Child process 16800 exited successfully.
+[Sun Nov 16 16:22:04.819683 2014] [mpm_winnt:notice] [pid 16552:tid 556] AH00455: Apache/2.4.9 (Win64) PHP/5.5.12 configured -- resuming normal operations
+[Sun Nov 16 16:22:04.819683 2014] [mpm_winnt:notice] [pid 16552:tid 556] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Sun Nov 16 16:22:04.819683 2014] [core:notice] [pid 16552:tid 556] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Sun Nov 16 16:22:04.820685 2014] [mpm_winnt:notice] [pid 16552:tid 556] AH00418: Parent: Created child process 18312
+[Sun Nov 16 16:22:05.377568 2014] [mpm_winnt:notice] [pid 18312:tid 472] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 17 20:30:59.918862 2014] [mpm_winnt:notice] [pid 16552:tid 556] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 17 20:31:01.941275 2014] [mpm_winnt:notice] [pid 18312:tid 472] AH00364: Child: All worker threads have exited.
+[Mon Nov 17 20:31:02.092925 2014] [mpm_winnt:notice] [pid 16552:tid 556] AH00430: Parent: Child process 18312 exited successfully.
+[Mon Nov 24 19:03:07.403419 2014] [mpm_winnt:notice] [pid 28960:tid 520] AH00455: Apache/2.4.9 (Win64) PHP/5.5.12 configured -- resuming normal operations
+[Mon Nov 24 19:03:07.417928 2014] [mpm_winnt:notice] [pid 28960:tid 520] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Mon Nov 24 19:03:07.417928 2014] [core:notice] [pid 28960:tid 520] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Mon Nov 24 19:03:07.426434 2014] [mpm_winnt:notice] [pid 28960:tid 520] AH00418: Parent: Created child process 23500
+[Mon Nov 24 19:03:07.788680 2014] [mpm_winnt:notice] [pid 23500:tid 464] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 24 19:17:09.708196 2014] [mpm_winnt:notice] [pid 28960:tid 520] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 24 19:17:11.839389 2014] [mpm_winnt:notice] [pid 23500:tid 464] AH00364: Child: All worker threads have exited.
+[Mon Nov 24 19:17:11.912439 2014] [mpm_winnt:notice] [pid 28960:tid 520] AH00430: Parent: Child process 23500 exited successfully.
+[Sat Dec 06 16:54:04.986068 2014] [mpm_winnt:notice] [pid 28024:tid 548] AH00455: Apache/2.4.9 (Win64) PHP/5.5.12 configured -- resuming normal operations
+[Sat Dec 06 16:54:05.003079 2014] [mpm_winnt:notice] [pid 28024:tid 548] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Sat Dec 06 16:54:05.003079 2014] [core:notice] [pid 28024:tid 548] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Sat Dec 06 16:54:05.004079 2014] [mpm_winnt:notice] [pid 28024:tid 548] AH00418: Parent: Created child process 21276
+[Sat Dec 06 16:54:05.375327 2014] [mpm_winnt:notice] [pid 21276:tid 456] AH00354: Child: Starting 64 worker threads.
+[Sun Dec 07 00:19:34.228705 2014] [mpm_winnt:notice] [pid 28024:tid 548] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 07 00:19:36.333156 2014] [mpm_winnt:notice] [pid 21276:tid 456] AH00364: Child: All worker threads have exited.
+[Sun Dec 07 00:19:36.490261 2014] [mpm_winnt:notice] [pid 28024:tid 548] AH00430: Parent: Child process 21276 exited successfully.
+[Tue Dec 09 21:54:19.873605 2014] [mpm_winnt:notice] [pid 39616:tid 556] AH00455: Apache/2.4.9 (Win64) PHP/5.5.12 configured -- resuming normal operations
+[Tue Dec 09 21:54:19.874105 2014] [mpm_winnt:notice] [pid 39616:tid 556] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Tue Dec 09 21:54:19.874105 2014] [core:notice] [pid 39616:tid 556] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Tue Dec 09 21:54:19.875105 2014] [mpm_winnt:notice] [pid 39616:tid 556] AH00418: Parent: Created child process 39108
+[Tue Dec 09 21:54:20.363432 2014] [mpm_winnt:notice] [pid 39108:tid 468] AH00354: Child: Starting 64 worker threads.
