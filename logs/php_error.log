@@ -192,3 +192,101 @@
 [12-Dec-2014 04:13:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\firstTest.php:0
 [12-Dec-2014 04:13:19 Europe/Paris] PHP   2. mysql_connect() C:\wamp\www\firstTest.php:18
 [12-Dec-2014 04:15:09 Europe/Paris] PHP Parse error:  syntax error, unexpected '<' in C:\wamp\www\firstTest.php on line 16
+[12-Dec-2014 04:19:16 Europe/Paris] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp\www\testmysql.php on line 2
+[12-Dec-2014 04:19:16 Europe/Paris] PHP Stack trace:
+[12-Dec-2014 04:19:16 Europe/Paris] PHP   1. {main}() C:\wamp\www\testmysql.php:0
+[12-Dec-2014 04:19:16 Europe/Paris] PHP   2. mysql_connect() C:\wamp\www\testmysql.php:2
+[12-Dec-2014 04:19:19 Europe/Paris] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\wamp\www\testmysql.php on line 2
+[12-Dec-2014 04:19:19 Europe/Paris] PHP Stack trace:
+[12-Dec-2014 04:19:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\testmysql.php:0
+[12-Dec-2014 04:19:19 Europe/Paris] PHP   2. mysql_connect() C:\wamp\www\testmysql.php:2
+[12-Dec-2014 04:19:19 Europe/Paris] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\wamp\www\testmysql.php on line 2
+[12-Dec-2014 04:19:19 Europe/Paris] PHP Stack trace:
+[12-Dec-2014 04:19:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\testmysql.php:0
+[12-Dec-2014 04:19:19 Europe/Paris] PHP   2. mysql_connect() C:\wamp\www\testmysql.php:2
+[12-Dec-2014 04:19:58 Europe/Paris] PHP Notice:  Undefined variable: link in C:\wamp\www\firstTest.php on line 19
+[12-Dec-2014 04:19:58 Europe/Paris] PHP Stack trace:
+[12-Dec-2014 04:19:58 Europe/Paris] PHP   1. {main}() C:\wamp\www\firstTest.php:0
+[12-Dec-2014 04:20:59 Europe/Paris] PHP Parse error:  syntax error, unexpected '}' in C:\wamp\www\firstTest.php on line 25
+[12-Dec-2014 04:21:04 Europe/Paris] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in C:\wamp\www\firstTest.php on line 24
+[12-Dec-2014 04:21:04 Europe/Paris] PHP Stack trace:
+[12-Dec-2014 04:21:04 Europe/Paris] PHP   1. {main}() C:\wamp\www\firstTest.php:0
+[12-Dec-2014 04:22:28 Europe/Paris] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\wamp\www\firstTest.php on line 18
+[12-Dec-2014 04:22:28 Europe/Paris] PHP Stack trace:
+[12-Dec-2014 04:22:28 Europe/Paris] PHP   1. {main}() C:\wamp\www\firstTest.php:0
+[12-Dec-2014 04:22:28 Europe/Paris] PHP   2. mysqli_connect() C:\wamp\www\firstTest.php:18
+[12-Dec-2014 04:22:28 Europe/Paris] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\wamp\www\firstTest.php on line 18
+[12-Dec-2014 04:22:28 Europe/Paris] PHP Stack trace:
+[12-Dec-2014 04:22:28 Europe/Paris] PHP   1. {main}() C:\wamp\www\firstTest.php:0
+[12-Dec-2014 04:22:28 Europe/Paris] PHP   2. mysqli_connect() C:\wamp\www\firstTest.php:18
+[12-Dec-2014 04:23:08 Europe/Paris] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\wamp\www\firstTest.php on line 19
+[12-Dec-2014 04:23:08 Europe/Paris] PHP Stack trace:
+[12-Dec-2014 04:23:08 Europe/Paris] PHP   1. {main}() C:\wamp\www\firstTest.php:0
+[12-Dec-2014 04:23:08 Europe/Paris] PHP   2. mysqli_connect() C:\wamp\www\firstTest.php:19
+[12-Dec-2014 04:23:08 Europe/Paris] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\wamp\www\firstTest.php on line 19
+[12-Dec-2014 04:23:08 Europe/Paris] PHP Stack trace:
+[12-Dec-2014 04:23:08 Europe/Paris] PHP   1. {main}() C:\wamp\www\firstTest.php:0
+[12-Dec-2014 04:23:08 Europe/Paris] PHP   2. mysqli_connect() C:\wamp\www\firstTest.php:19
+[12-Dec-2014 04:23:18 Europe/Paris] PHP Notice:  Undefined variable: root in C:\wamp\www\firstTest.php on line 19
+[12-Dec-2014 04:23:18 Europe/Paris] PHP Stack trace:
+[12-Dec-2014 04:23:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\firstTest.php:0
+[12-Dec-2014 04:23:21 Europe/Paris] PHP Notice:  Undefined variable: root in C:\wamp\www\firstTest.php on line 19
+[12-Dec-2014 04:23:21 Europe/Paris] PHP Stack trace:
+[12-Dec-2014 04:23:21 Europe/Paris] PHP   1. {main}() C:\wamp\www\firstTest.php:0
+[12-Dec-2014 04:33:17 Europe/Paris] PHP Parse error:  syntax error, unexpected '}' in C:\wamp\www\firstTest.php on line 24
+[12-Dec-2014 04:33:29 Europe/Paris] PHP Deprecated:  mysql_select_db(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp\www\firstTest.php on line 21
+[12-Dec-2014 04:33:29 Europe/Paris] PHP Stack trace:
+[12-Dec-2014 04:33:29 Europe/Paris] PHP   1. {main}() C:\wamp\www\firstTest.php:0
+[12-Dec-2014 04:33:29 Europe/Paris] PHP   2. mysql_select_db() C:\wamp\www\firstTest.php:21
+[12-Dec-2014 04:34:11 Europe/Paris] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\wamp\www\firstTest.php on line 21
+[12-Dec-2014 04:34:11 Europe/Paris] PHP Stack trace:
+[12-Dec-2014 04:34:11 Europe/Paris] PHP   1. {main}() C:\wamp\www\firstTest.php:0
+[12-Dec-2014 04:34:11 Europe/Paris] PHP   2. mysqli_connect() C:\wamp\www\firstTest.php:21
+[12-Dec-2014 04:34:11 Europe/Paris] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\wamp\www\firstTest.php on line 21
+[12-Dec-2014 04:34:11 Europe/Paris] PHP Stack trace:
+[12-Dec-2014 04:34:11 Europe/Paris] PHP   1. {main}() C:\wamp\www\firstTest.php:0
+[12-Dec-2014 04:34:11 Europe/Paris] PHP   2. mysqli_connect() C:\wamp\www\firstTest.php:21
+[12-Dec-2014 04:35:35 Europe/Paris] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'test_db2' in C:\wamp\www\firstTest.php on line 18
+[12-Dec-2014 04:35:35 Europe/Paris] PHP Stack trace:
+[12-Dec-2014 04:35:35 Europe/Paris] PHP   1. {main}() C:\wamp\www\firstTest.php:0
+[12-Dec-2014 04:35:35 Europe/Paris] PHP   2. mysqli_connect() C:\wamp\www\firstTest.php:18
+[12-Dec-2014 04:38:18 Europe/Paris] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in C:\wamp\www\firstTest.php on line 28
+[12-Dec-2014 04:38:18 Europe/Paris] PHP Stack trace:
+[12-Dec-2014 04:38:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\firstTest.php:0
+[12-Dec-2014 04:38:18 Europe/Paris] PHP   2. mysql_close() C:\wamp\www\firstTest.php:28
+[12-Dec-2014 04:42:51 Europe/Paris] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp\www\firstTest.php on line 23
+[12-Dec-2014 04:42:51 Europe/Paris] PHP Stack trace:
+[12-Dec-2014 04:42:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\firstTest.php:0
+[12-Dec-2014 04:42:51 Europe/Paris] PHP   2. mysql_query() C:\wamp\www\firstTest.php:23
+[12-Dec-2014 04:42:51 Europe/Paris] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in C:\wamp\www\firstTest.php on line 25
+[12-Dec-2014 04:42:51 Europe/Paris] PHP Stack trace:
+[12-Dec-2014 04:42:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\firstTest.php:0
+[12-Dec-2014 04:42:51 Europe/Paris] PHP   2. mysql_fetch_assoc() C:\wamp\www\firstTest.php:25
+[12-Dec-2014 04:46:46 Europe/Paris] PHP Fatal error:  Call to undefined function mysqli_stmt() in C:\wamp\www\firstTest.php on line 23
+[12-Dec-2014 04:46:46 Europe/Paris] PHP Stack trace:
+[12-Dec-2014 04:46:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\firstTest.php:0
+[12-Dec-2014 04:48:58 Europe/Paris] PHP Warning:  mysqli_execute() expects parameter 1 to be mysqli_stmt, string given in C:\wamp\www\firstTest.php on line 23
+[12-Dec-2014 04:48:58 Europe/Paris] PHP Stack trace:
+[12-Dec-2014 04:48:58 Europe/Paris] PHP   1. {main}() C:\wamp\www\firstTest.php:0
+[12-Dec-2014 04:48:58 Europe/Paris] PHP   2. mysqli_execute() C:\wamp\www\firstTest.php:23
+[12-Dec-2014 04:48:58 Europe/Paris] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in C:\wamp\www\firstTest.php on line 25
+[12-Dec-2014 04:48:58 Europe/Paris] PHP Stack trace:
+[12-Dec-2014 04:48:58 Europe/Paris] PHP   1. {main}() C:\wamp\www\firstTest.php:0
+[12-Dec-2014 04:48:58 Europe/Paris] PHP   2. mysql_fetch_assoc() C:\wamp\www\firstTest.php:25
+[12-Dec-2014 04:49:20 Europe/Paris] PHP Parse error:  syntax error, unexpected ';' in C:\wamp\www\firstTest.php on line 23
+[12-Dec-2014 04:49:31 Europe/Paris] PHP Fatal error:  Call to undefined function mysqli_stmt() in C:\wamp\www\firstTest.php on line 23
+[12-Dec-2014 04:49:31 Europe/Paris] PHP Stack trace:
+[12-Dec-2014 04:49:31 Europe/Paris] PHP   1. {main}() C:\wamp\www\firstTest.php:0
+[12-Dec-2014 04:49:40 Europe/Paris] PHP Warning:  mysqli_execute() expects parameter 1 to be mysqli_stmt, string given in C:\wamp\www\firstTest.php on line 23
+[12-Dec-2014 04:49:40 Europe/Paris] PHP Stack trace:
+[12-Dec-2014 04:49:40 Europe/Paris] PHP   1. {main}() C:\wamp\www\firstTest.php:0
+[12-Dec-2014 04:49:40 Europe/Paris] PHP   2. mysqli_execute() C:\wamp\www\firstTest.php:23
+[12-Dec-2014 04:49:40 Europe/Paris] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in C:\wamp\www\firstTest.php on line 25
+[12-Dec-2014 04:49:40 Europe/Paris] PHP Stack trace:
+[12-Dec-2014 04:49:40 Europe/Paris] PHP   1. {main}() C:\wamp\www\firstTest.php:0
+[12-Dec-2014 04:49:40 Europe/Paris] PHP   2. mysql_fetch_assoc() C:\wamp\www\firstTest.php:25
+[12-Dec-2014 04:53:11 Europe/Paris] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in C:\wamp\www\firstTest.php on line 25
+[12-Dec-2014 04:53:11 Europe/Paris] PHP Stack trace:
+[12-Dec-2014 04:53:11 Europe/Paris] PHP   1. {main}() C:\wamp\www\firstTest.php:0
+[12-Dec-2014 04:53:11 Europe/Paris] PHP   2. mysql_fetch_assoc() C:\wamp\www\firstTest.php:25
+[12-Dec-2014 04:56:07 Europe/Paris] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in C:\wamp\www\firstTest.php on line 25
