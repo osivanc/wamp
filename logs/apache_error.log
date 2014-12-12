@@ -59,3 +59,4 @@
 [Tue Dec 09 21:54:19.874105 2014] [core:notice] [pid 39616:tid 556] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
 [Tue Dec 09 21:54:19.875105 2014] [mpm_winnt:notice] [pid 39616:tid 556] AH00418: Parent: Created child process 39108
 [Tue Dec 09 21:54:20.363432 2014] [mpm_winnt:notice] [pid 39108:tid 468] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 11 20:35:32.053252 2014] [:error] [pid 39108:tid 956] [client ::1:57977] script 'C:/wamp/www/test1.php' not found or unable to stat
