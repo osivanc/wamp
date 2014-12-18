@@ -1,0 +1,24 @@
+02:34:12pm Post acquired
+02:34:12pm Input is: asdf
+02:34:12pm Link with db established
+02:34:12pm Query run
+02:34:12pm Rows fetched from query = 0
+02:34:12pm --------------------------DONE--------------------------
+02:34:18pm Post acquired
+02:34:18pm Input is: oscar
+02:34:18pm Link with db established
+02:34:18pm Query run
+02:34:18pm Rows fetched from query = 1
+02:34:18pm --------------------------DONE--------------------------
+02:34:30pm Post acquired
+02:34:30pm Input is: sam
+02:34:30pm Link with db established
+02:34:30pm Query run
+02:34:30pm Rows fetched from query = 1
+02:34:30pm --------------------------DONE--------------------------
+02:39:00pm Post acquired
+02:39:00pm Input is: oscar
+02:39:00pm Link with db established
+02:39:00pm Query run
+02:39:01pm Rows fetched from query = 1
+02:39:01pm --------------------------DONE--------------------------

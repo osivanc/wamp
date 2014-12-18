@@ -290,3 +290,268 @@
 [12-Dec-2014 04:53:11 Europe/Paris] PHP   1. {main}() C:\wamp\www\firstTest.php:0
 [12-Dec-2014 04:53:11 Europe/Paris] PHP   2. mysql_fetch_assoc() C:\wamp\www\firstTest.php:25
 [12-Dec-2014 04:56:07 Europe/Paris] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in C:\wamp\www\firstTest.php on line 25
+[16-Dec-2014 18:42:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[16-Dec-2014 18:42:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[16-Dec-2014 18:43:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[16-Dec-2014 18:43:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[16-Dec-2014 23:38:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[16-Dec-2014 23:38:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[16-Dec-2014 23:38:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[16-Dec-2014 23:38:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[17-Dec-2014 00:53:41 Europe/Paris] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp\www\testmysql.php on line 2
+[17-Dec-2014 00:53:41 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 00:53:41 Europe/Paris] PHP   1. {main}() C:\wamp\www\testmysql.php:0
+[17-Dec-2014 00:53:41 Europe/Paris] PHP   2. mysql_connect() C:\wamp\www\testmysql.php:2
+[17-Dec-2014 00:54:25 Europe/Paris] PHP Warning:  mysql_connect(): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ in C:\wamp\www\testmysql.php on line 2
+[17-Dec-2014 00:54:25 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 00:54:25 Europe/Paris] PHP   1. {main}() C:\wamp\www\testmysql.php:0
+[17-Dec-2014 00:54:25 Europe/Paris] PHP   2. mysql_connect() C:\wamp\www\testmysql.php:2
+[17-Dec-2014 03:43:44 Europe/Paris] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp\www\test_app\login.php on line 36
+[17-Dec-2014 03:43:44 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 03:43:44 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\login.php:0
+[17-Dec-2014 03:43:44 Europe/Paris] PHP   2. mysql_connect() C:\wamp\www\test_app\login.php:36
+[17-Dec-2014 04:01:00 Europe/Paris] PHP Notice:  Undefined variable: link in C:\wamp\www\test_app\index.php on line 127
+[17-Dec-2014 04:01:00 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:01:00 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:01:48 Europe/Paris] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp\www\test_app\login.php on line 36
+[17-Dec-2014 04:01:48 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:01:48 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\login.php:0
+[17-Dec-2014 04:01:48 Europe/Paris] PHP   2. mysql_connect() C:\wamp\www\test_app\login.php:36
+[17-Dec-2014 04:02:21 Europe/Paris] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp\www\test_app\login.php on line 36
+[17-Dec-2014 04:02:21 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:02:21 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\login.php:0
+[17-Dec-2014 04:02:21 Europe/Paris] PHP   2. mysql_connect() C:\wamp\www\test_app\login.php:36
+[17-Dec-2014 04:02:29 Europe/Paris] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\wamp\www\test_app\index.php on line 47
+[17-Dec-2014 04:02:29 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:02:29 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:02:29 Europe/Paris] PHP   2. mysql_num_rows() C:\wamp\www\test_app\index.php:47
+[17-Dec-2014 04:02:29 Europe/Paris] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in C:\wamp\www\test_app\index.php on line 65
+[17-Dec-2014 04:02:29 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:02:29 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:02:29 Europe/Paris] PHP   2. mysqli_fetch_assoc() C:\wamp\www\test_app\index.php:65
+[17-Dec-2014 04:02:29 Europe/Paris] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in C:\wamp\www\test_app\index.php on line 68
+[17-Dec-2014 04:02:29 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:02:29 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:02:29 Europe/Paris] PHP   2. mysql_close() C:\wamp\www\test_app\index.php:68
+[17-Dec-2014 04:03:34 Europe/Paris] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in C:\wamp\www\test_app\index.php on line 65
+[17-Dec-2014 04:03:34 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:03:34 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:03:34 Europe/Paris] PHP   2. mysqli_fetch_assoc() C:\wamp\www\test_app\index.php:65
+[17-Dec-2014 04:05:22 Europe/Paris] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in C:\wamp\www\test_app\index.php on line 65
+[17-Dec-2014 04:05:22 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:05:22 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:05:22 Europe/Paris] PHP   2. mysqli_fetch_assoc() C:\wamp\www\test_app\index.php:65
+[17-Dec-2014 04:07:56 Europe/Paris] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in C:\wamp\www\test_app\index.php on line 65
+[17-Dec-2014 04:07:56 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:07:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:07:56 Europe/Paris] PHP   2. mysqli_fetch_assoc() C:\wamp\www\test_app\index.php:65
+[17-Dec-2014 04:09:26 Europe/Paris] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in C:\wamp\www\test_app\index.php on line 67
+[17-Dec-2014 04:09:26 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:09:26 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:09:26 Europe/Paris] PHP   2. mysqli_fetch_assoc() C:\wamp\www\test_app\index.php:67
+[17-Dec-2014 04:09:33 Europe/Paris] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in C:\wamp\www\test_app\index.php on line 67
+[17-Dec-2014 04:09:33 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:09:33 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:09:33 Europe/Paris] PHP   2. mysqli_fetch_assoc() C:\wamp\www\test_app\index.php:67
+[17-Dec-2014 04:11:17 Europe/Paris] PHP Notice:  Undefined index: password in C:\wamp\www\test_app\index.php on line 23
+[17-Dec-2014 04:11:17 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:11:17 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:11:17 Europe/Paris] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in C:\wamp\www\test_app\index.php on line 67
+[17-Dec-2014 04:11:17 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:11:17 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:11:17 Europe/Paris] PHP   2. mysqli_fetch_assoc() C:\wamp\www\test_app\index.php:67
+[17-Dec-2014 04:11:47 Europe/Paris] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in C:\wamp\www\test_app\index.php on line 67
+[17-Dec-2014 04:11:47 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:11:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:11:47 Europe/Paris] PHP   2. mysqli_fetch_assoc() C:\wamp\www\test_app\index.php:67
+[17-Dec-2014 04:11:49 Europe/Paris] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in C:\wamp\www\test_app\index.php on line 67
+[17-Dec-2014 04:11:49 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:11:49 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:11:49 Europe/Paris] PHP   2. mysqli_fetch_assoc() C:\wamp\www\test_app\index.php:67
+[17-Dec-2014 04:11:50 Europe/Paris] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in C:\wamp\www\test_app\index.php on line 67
+[17-Dec-2014 04:11:50 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:11:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:11:50 Europe/Paris] PHP   2. mysqli_fetch_assoc() C:\wamp\www\test_app\index.php:67
+[17-Dec-2014 04:13:44 Europe/Paris] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in C:\wamp\www\test_app\index.php on line 71
+[17-Dec-2014 04:13:44 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:13:44 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:13:44 Europe/Paris] PHP   2. mysqli_fetch_assoc() C:\wamp\www\test_app\index.php:71
+[17-Dec-2014 04:15:26 Europe/Paris] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in C:\wamp\www\test_app\index.php on line 72
+[17-Dec-2014 04:15:26 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:15:26 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:15:26 Europe/Paris] PHP   2. mysqli_fetch_assoc() C:\wamp\www\test_app\index.php:72
+[17-Dec-2014 04:15:34 Europe/Paris] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in C:\wamp\www\test_app\index.php on line 72
+[17-Dec-2014 04:15:34 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:15:34 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:15:34 Europe/Paris] PHP   2. mysqli_fetch_assoc() C:\wamp\www\test_app\index.php:72
+[17-Dec-2014 04:22:58 Europe/Paris] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\wamp\www\test_app\index.php on line 56
+[17-Dec-2014 04:35:51 Europe/Paris] PHP Notice:  Undefined variable: uname in C:\wamp\www\test_app\index.php on line 9
+[17-Dec-2014 04:35:51 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:35:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:35:51 Europe/Paris] PHP Notice:  Undefined variable: pword in C:\wamp\www\test_app\index.php on line 10
+[17-Dec-2014 04:35:51 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:35:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:35:51 Europe/Paris] PHP Notice:  Undefined variable: errorMessage in C:\wamp\www\test_app\index.php on line 19
+[17-Dec-2014 04:35:51 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:35:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:36:28 Europe/Paris] PHP Notice:  Undefined variable: uname in C:\wamp\www\test_app\index.php on line 9
+[17-Dec-2014 04:36:28 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:36:28 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:36:28 Europe/Paris] PHP Notice:  Undefined variable: pword in C:\wamp\www\test_app\index.php on line 10
+[17-Dec-2014 04:36:28 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:36:28 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:36:28 Europe/Paris] PHP Notice:  Undefined variable: errorMessage in C:\wamp\www\test_app\index.php on line 19
+[17-Dec-2014 04:36:28 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:36:28 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:36:34 Europe/Paris] PHP Notice:  Undefined variable: uname in C:\wamp\www\test_app\index.php on line 9
+[17-Dec-2014 04:36:34 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:36:34 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:36:34 Europe/Paris] PHP Notice:  Undefined variable: pword in C:\wamp\www\test_app\index.php on line 10
+[17-Dec-2014 04:36:34 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:36:34 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:36:34 Europe/Paris] PHP Notice:  Undefined variable: errorMessage in C:\wamp\www\test_app\index.php on line 19
+[17-Dec-2014 04:36:34 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:36:34 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:36:41 Europe/Paris] PHP Notice:  Undefined variable: uname in C:\wamp\www\test_app\index.php on line 9
+[17-Dec-2014 04:36:41 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:36:41 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:36:41 Europe/Paris] PHP Notice:  Undefined variable: pword in C:\wamp\www\test_app\index.php on line 10
+[17-Dec-2014 04:36:41 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:36:41 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:36:41 Europe/Paris] PHP Notice:  Undefined variable: errorMessage in C:\wamp\www\test_app\index.php on line 19
+[17-Dec-2014 04:36:41 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:36:41 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:37:35 Europe/Paris] PHP Notice:  Undefined variable: uname in C:\wamp\www\test_app\index.php on line 10
+[17-Dec-2014 04:37:35 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:37:35 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:37:35 Europe/Paris] PHP Notice:  Undefined variable: pword in C:\wamp\www\test_app\index.php on line 11
+[17-Dec-2014 04:37:35 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:37:35 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:37:35 Europe/Paris] PHP Notice:  Undefined variable: errorMessage in C:\wamp\www\test_app\index.php on line 20
+[17-Dec-2014 04:37:35 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:37:35 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:37:37 Europe/Paris] PHP Notice:  Undefined variable: uname in C:\wamp\www\test_app\index.php on line 10
+[17-Dec-2014 04:37:37 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:37:37 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:37:37 Europe/Paris] PHP Notice:  Undefined variable: pword in C:\wamp\www\test_app\index.php on line 11
+[17-Dec-2014 04:37:37 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:37:37 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:37:37 Europe/Paris] PHP Notice:  Undefined variable: errorMessage in C:\wamp\www\test_app\index.php on line 20
+[17-Dec-2014 04:37:37 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:37:37 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:44:56 Europe/Paris] PHP Fatal error:  Cannot redeclare log() in C:\wamp\www\test_app\process.php on line 23
+[17-Dec-2014 04:44:56 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:44:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:45:58 Europe/Paris] PHP Fatal error:  Cannot redeclare log() in C:\wamp\www\test_app\process.php on line 24
+[17-Dec-2014 04:45:58 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:45:58 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 04:46:00 Europe/Paris] PHP Fatal error:  Cannot redeclare log() in C:\wamp\www\test_app\process.php on line 24
+[17-Dec-2014 04:46:00 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 04:46:00 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 05:08:20 Europe/Paris] PHP Notice:  Undefined variable: uname in C:\wamp\www\test_app\index.php on line 12
+[17-Dec-2014 05:08:20 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 05:08:20 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 05:17:09 Europe/Paris] PHP Notice:  Undefined variable: ufName in C:\wamp\www\test_app\index.php on line 18
+[17-Dec-2014 05:17:09 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 05:17:09 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 05:17:09 Europe/Paris] PHP Notice:  Undefined variable: ulName in C:\wamp\www\test_app\index.php on line 19
+[17-Dec-2014 05:17:09 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 05:17:09 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 05:17:29 Europe/Paris] PHP Notice:  Undefined variable: ufName in C:\wamp\www\test_app\index.php on line 11
+[17-Dec-2014 05:17:29 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 05:17:29 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 05:17:29 Europe/Paris] PHP Notice:  Undefined variable: ulName in C:\wamp\www\test_app\index.php on line 18
+[17-Dec-2014 05:17:29 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 05:17:29 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 05:17:52 Europe/Paris] PHP Notice:  Undefined variable: ufName in C:\wamp\www\test_app\index.php on line 11
+[17-Dec-2014 05:17:52 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 05:17:52 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 05:17:52 Europe/Paris] PHP Notice:  Undefined variable: ulName in C:\wamp\www\test_app\index.php on line 18
+[17-Dec-2014 05:17:52 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 05:17:52 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 05:18:33 Europe/Paris] PHP Notice:  Undefined variable: ulName in C:\wamp\www\test_app\index.php on line 18
+[17-Dec-2014 05:18:33 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 05:18:33 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 05:19:13 Europe/Paris] PHP Notice:  Undefined index: ulName in C:\wamp\www\test_app\process.php on line 18
+[17-Dec-2014 05:19:13 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 05:19:13 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\process.php:0
+[17-Dec-2014 05:20:01 Europe/Paris] PHP Notice:  Undefined index: ulName in C:\wamp\www\test_app\process.php on line 18
+[17-Dec-2014 05:20:01 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 05:20:01 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\process.php:0
+[17-Dec-2014 05:20:47 Europe/Paris] PHP Notice:  Undefined variable: pword in C:\wamp\www\test_app\index.php on line 12
+[17-Dec-2014 05:20:47 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 05:20:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 05:20:49 Europe/Paris] PHP Notice:  Undefined index: ulName in C:\wamp\www\test_app\process.php on line 17
+[17-Dec-2014 05:20:49 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 05:20:49 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\process.php:0
+[17-Dec-2014 05:20:51 Europe/Paris] PHP Notice:  Undefined index: ufName in C:\wamp\www\test_app\process.php on line 16
+[17-Dec-2014 05:20:51 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 05:20:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\process.php:0
+[17-Dec-2014 05:20:53 Europe/Paris] PHP Notice:  Undefined index: ulName in C:\wamp\www\test_app\process.php on line 17
+[17-Dec-2014 05:20:53 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 05:20:53 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\process.php:0
+[17-Dec-2014 05:20:55 Europe/Paris] PHP Notice:  Undefined index: ufName in C:\wamp\www\test_app\process.php on line 16
+[17-Dec-2014 05:20:55 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 05:20:55 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\process.php:0
+[17-Dec-2014 05:27:56 Europe/Paris] PHP Parse error:  syntax error, unexpected '=' in C:\wamp\www\test_app\process.php on line 39
+[17-Dec-2014 05:27:56 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 05:27:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\index.php:0
+[17-Dec-2014 05:28:49 Europe/Paris] PHP Notice:  Use of undefined constant ufName - assumed 'ufName' in C:\wamp\www\test_app\process.php on line 23
+[17-Dec-2014 05:28:49 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 05:28:49 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\process.php:0
+[17-Dec-2014 05:28:49 Europe/Paris] PHP Notice:  Use of undefined constant ulName - assumed 'ulName' in C:\wamp\www\test_app\process.php on line 24
+[17-Dec-2014 05:28:49 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 05:28:49 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\process.php:0
+[17-Dec-2014 05:29:23 Europe/Paris] PHP Notice:  Use of undefined constant ufName - assumed 'ufName' in C:\wamp\www\test_app\process.php on line 20
+[17-Dec-2014 05:29:23 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 05:29:23 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\process.php:0
+[17-Dec-2014 05:29:23 Europe/Paris] PHP Notice:  Use of undefined constant ulName - assumed 'ulName' in C:\wamp\www\test_app\process.php on line 21
+[17-Dec-2014 05:29:23 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 05:29:23 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\process.php:0
+[17-Dec-2014 05:30:34 Europe/Paris] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp\www\test_app\process.php on line 15
+[17-Dec-2014 05:30:34 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 05:30:34 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\process.php:0
+[17-Dec-2014 05:30:34 Europe/Paris] PHP   2. mysql_real_escape_string() C:\wamp\www\test_app\process.php:15
+[17-Dec-2014 05:30:34 Europe/Paris] PHP Notice:  Use of undefined constant ufName - assumed 'ufName' in C:\wamp\www\test_app\process.php on line 20
+[17-Dec-2014 05:30:34 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 05:30:34 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\process.php:0
+[17-Dec-2014 05:30:34 Europe/Paris] PHP Notice:  Use of undefined constant ulName - assumed 'ulName' in C:\wamp\www\test_app\process.php on line 21
+[17-Dec-2014 05:30:34 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 05:30:34 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\process.php:0
+[17-Dec-2014 05:30:53 Europe/Paris] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in C:\wamp\www\test_app\process.php on line 15
+[17-Dec-2014 05:30:53 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 05:30:53 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\process.php:0
+[17-Dec-2014 05:30:53 Europe/Paris] PHP   2. mysqli_real_escape_string() C:\wamp\www\test_app\process.php:15
+[17-Dec-2014 05:30:53 Europe/Paris] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in C:\wamp\www\test_app\process.php on line 16
+[17-Dec-2014 05:30:53 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 05:30:53 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\process.php:0
+[17-Dec-2014 05:30:53 Europe/Paris] PHP   2. mysqli_real_escape_string() C:\wamp\www\test_app\process.php:16
+[17-Dec-2014 05:30:53 Europe/Paris] PHP Notice:  Use of undefined constant ufName - assumed 'ufName' in C:\wamp\www\test_app\process.php on line 20
+[17-Dec-2014 05:30:53 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 05:30:53 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\process.php:0
+[17-Dec-2014 05:30:53 Europe/Paris] PHP Notice:  Use of undefined constant ulName - assumed 'ulName' in C:\wamp\www\test_app\process.php on line 21
+[17-Dec-2014 05:30:53 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 05:30:53 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\process.php:0
+[17-Dec-2014 05:41:21 Europe/Paris] PHP Notice:  Undefined index: ufNameEntry in C:\wamp\www\test_app\process.php on line 15
+[17-Dec-2014 05:41:21 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 05:41:21 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\process.php:0
+[17-Dec-2014 05:41:21 Europe/Paris] PHP Notice:  Undefined index: ulNameEntry in C:\wamp\www\test_app\process.php on line 16
+[17-Dec-2014 05:41:21 Europe/Paris] PHP Stack trace:
+[17-Dec-2014 05:41:21 Europe/Paris] PHP   1. {main}() C:\wamp\www\test_app\process.php:0
+[17-Dec-2014 13:34:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[17-Dec-2014 13:34:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[17-Dec-2014 13:34:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[17-Dec-2014 13:34:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
