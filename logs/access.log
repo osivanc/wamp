@@ -763,3 +763,9 @@
 ::1 - - [17/Dec/2014:18:56:38 -0500] "GET /__utm.gif?utmt=event&utme=5(CORAL_CDN_CALLED*SERVER)&utmac=UA-347631-6&utmhid=17x23x56x37 HTTP/1.1" 404 280
 ::1 - - [17/Dec/2014:19:32:24 -0500] "HEAD / HTTP/1.1" 200 -
 ::1 - - [17/Dec/2014:19:32:25 -0500] "HEAD / HTTP/1.1" 200 -
+::1 - - [18/Dec/2014:00:52:17 -0500] "POST /test_app/index.php HTTP/1.1" 200 432
+::1 - - [18/Dec/2014:00:55:16 -0500] "POST /test_app/process.php HTTP/1.1" 200 300
+::1 - - [18/Dec/2014:00:58:17 -0500] "POST /test_app/process.php HTTP/1.1" 200 300
+::1 - - [18/Dec/2014:00:58:25 -0500] "POST /test_app/index.php HTTP/1.1" 200 432
+::1 - - [18/Dec/2014:00:58:33 -0500] "POST /test_app/process.php HTTP/1.1" 200 300
+::1 - - [18/Dec/2014:01:00:20 -0500] "POST /test_app/index.php HTTP/1.1" 200 432

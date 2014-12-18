@@ -22,3 +22,21 @@
 02:39:00pm Query run
 02:39:01pm Rows fetched from query = 1
 02:39:01pm --------------------------DONE--------------------------
+06:55:16am Post acquired
+06:55:16am Input is: oscar
+06:55:16am Link with db established
+06:55:16am Query run
+06:55:16am Rows fetched from query = 2
+06:55:16am --------------------------DONE--------------------------
+06:58:17am Post acquired
+06:58:17am Input is: oscar
+06:58:17am Link with db established
+06:58:17am Query run
+06:58:17am Rows fetched from query = 2
+06:58:17am --------------------------DONE--------------------------
+06:58:33am Post acquired
+06:58:33am Input is: oscar
+06:58:33am Link with db established
+06:58:33am Query run
+06:58:33am Rows fetched from query = 2
+06:58:33am --------------------------DONE--------------------------
