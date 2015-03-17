@@ -141,3 +141,561 @@
 [Wed Dec 17 08:34:06.345279 2014] [core:notice] [pid 22740:tid 544] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
 [Wed Dec 17 08:34:06.346282 2014] [mpm_winnt:notice] [pid 22740:tid 544] AH00418: Parent: Created child process 15784
 [Wed Dec 17 08:34:06.732852 2014] [mpm_winnt:notice] [pid 15784:tid 464] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 22 00:39:08.880650 2014] [mpm_winnt:notice] [pid 22740:tid 544] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Dec 22 00:39:10.974048 2014] [mpm_winnt:notice] [pid 15784:tid 464] AH00364: Child: All worker threads have exited.
+[Mon Dec 22 00:39:12.798267 2014] [mpm_winnt:notice] [pid 22740:tid 544] AH00430: Parent: Child process 15784 exited successfully.
+[Thu Jan 22 22:12:33.492563 2015] [mpm_winnt:notice] [pid 20540:tid 544] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Thu Jan 22 22:12:33.503128 2015] [mpm_winnt:notice] [pid 20540:tid 544] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Thu Jan 22 22:12:33.503128 2015] [core:notice] [pid 20540:tid 544] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Thu Jan 22 22:12:33.504136 2015] [mpm_winnt:notice] [pid 20540:tid 544] AH00418: Parent: Created child process 24760
+[Thu Jan 22 22:12:34.544951 2015] [mpm_winnt:notice] [pid 24760:tid 472] AH00354: Child: Starting 64 worker threads.
+[Sun Jan 25 12:13:00.705136 2015] [mpm_winnt:notice] [pid 20540:tid 544] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jan 25 12:13:02.725147 2015] [mpm_winnt:notice] [pid 24760:tid 472] AH00364: Child: All worker threads have exited.
+[Sun Jan 25 12:13:03.094537 2015] [mpm_winnt:notice] [pid 20540:tid 544] AH00430: Parent: Child process 24760 exited successfully.
+[Thu Feb 05 19:13:59.309385 2015] [mpm_winnt:notice] [pid 46484:tid 556] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Thu Feb 05 19:13:59.320393 2015] [mpm_winnt:notice] [pid 46484:tid 556] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Thu Feb 05 19:13:59.320393 2015] [core:notice] [pid 46484:tid 556] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Thu Feb 05 19:13:59.321394 2015] [mpm_winnt:notice] [pid 46484:tid 556] AH00418: Parent: Created child process 75328
+[Thu Feb 05 19:13:59.654114 2015] [mpm_winnt:notice] [pid 75328:tid 464] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 05 19:41:16.989898 2015] [mpm_winnt:notice] [pid 46484:tid 556] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Feb 05 19:41:18.999300 2015] [mpm_winnt:notice] [pid 75328:tid 464] AH00364: Child: All worker threads have exited.
+[Thu Feb 05 19:41:19.061841 2015] [mpm_winnt:notice] [pid 46484:tid 556] AH00430: Parent: Child process 75328 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Thu Feb 05 19:41:19.493882 2015] [mpm_winnt:notice] [pid 75296:tid 568] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Thu Feb 05 19:41:19.493882 2015] [mpm_winnt:notice] [pid 75296:tid 568] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Thu Feb 05 19:41:19.493882 2015] [core:notice] [pid 75296:tid 568] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Thu Feb 05 19:41:19.494884 2015] [mpm_winnt:notice] [pid 75296:tid 568] AH00418: Parent: Created child process 61804
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Thu Feb 05 19:41:20.039813 2015] [mpm_winnt:notice] [pid 61804:tid 480] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 09:33:01.999002 2015] [mpm_winnt:notice] [pid 75296:tid 568] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 09:33:04.000531 2015] [mpm_winnt:notice] [pid 61804:tid 480] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 09:33:04.253700 2015] [mpm_winnt:notice] [pid 75296:tid 568] AH00430: Parent: Child process 61804 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 09:33:05.712642 2015] [mpm_winnt:notice] [pid 78144:tid 568] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 09:33:05.713642 2015] [mpm_winnt:notice] [pid 78144:tid 568] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 09:33:05.713642 2015] [core:notice] [pid 78144:tid 568] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 09:33:05.715644 2015] [mpm_winnt:notice] [pid 78144:tid 568] AH00418: Parent: Created child process 77516
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 09:33:06.292446 2015] [mpm_winnt:notice] [pid 77516:tid 500] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 09:59:30.796277 2015] [mpm_winnt:notice] [pid 78144:tid 568] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 09:59:32.797696 2015] [mpm_winnt:notice] [pid 77516:tid 500] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 09:59:32.838680 2015] [mpm_winnt:notice] [pid 78144:tid 568] AH00430: Parent: Child process 77516 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 09:59:39.215503 2015] [mpm_winnt:notice] [pid 74372:tid 572] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 09:59:39.215503 2015] [mpm_winnt:notice] [pid 74372:tid 572] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 09:59:39.215503 2015] [core:notice] [pid 74372:tid 572] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 09:59:39.217505 2015] [mpm_winnt:notice] [pid 74372:tid 572] AH00418: Parent: Created child process 77852
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 09:59:39.560706 2015] [mpm_winnt:notice] [pid 77852:tid 484] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 09:59:44.799021 2015] [mpm_winnt:notice] [pid 74372:tid 572] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 09:59:46.800451 2015] [mpm_winnt:notice] [pid 77852:tid 484] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 09:59:46.818463 2015] [mpm_winnt:notice] [pid 74372:tid 572] AH00430: Parent: Child process 77852 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 09:59:47.212526 2015] [mpm_winnt:notice] [pid 79296:tid 568] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 09:59:47.212526 2015] [mpm_winnt:notice] [pid 79296:tid 568] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 09:59:47.212526 2015] [core:notice] [pid 79296:tid 568] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 09:59:47.214527 2015] [mpm_winnt:notice] [pid 79296:tid 568] AH00418: Parent: Created child process 70528
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 09:59:47.708983 2015] [mpm_winnt:notice] [pid 70528:tid 480] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 10:00:07.401098 2015] [mpm_winnt:notice] [pid 79296:tid 568] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 10:00:09.402150 2015] [mpm_winnt:notice] [pid 70528:tid 480] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 10:00:09.423165 2015] [mpm_winnt:notice] [pid 79296:tid 568] AH00430: Parent: Child process 70528 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 10:00:09.761390 2015] [mpm_winnt:notice] [pid 77792:tid 584] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 10:00:09.761390 2015] [mpm_winnt:notice] [pid 77792:tid 584] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 10:00:09.761390 2015] [core:notice] [pid 77792:tid 584] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 10:00:09.762390 2015] [mpm_winnt:notice] [pid 77792:tid 584] AH00418: Parent: Created child process 78752
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 10:00:10.282798 2015] [mpm_winnt:notice] [pid 78752:tid 480] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 10:03:02.906539 2015] [mpm_winnt:notice] [pid 77792:tid 584] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 10:03:04.907564 2015] [mpm_winnt:notice] [pid 78752:tid 480] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 10:03:04.929577 2015] [mpm_winnt:notice] [pid 77792:tid 584] AH00430: Parent: Child process 78752 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 10:03:05.341348 2015] [mpm_winnt:notice] [pid 72548:tid 568] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 10:03:05.341348 2015] [mpm_winnt:notice] [pid 72548:tid 568] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 10:03:05.341348 2015] [core:notice] [pid 72548:tid 568] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 10:03:05.343351 2015] [mpm_winnt:notice] [pid 72548:tid 568] AH00418: Parent: Created child process 78216
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 10:03:05.831298 2015] [mpm_winnt:notice] [pid 78216:tid 480] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 10:27:54.435401 2015] [mpm_winnt:notice] [pid 72548:tid 568] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 10:27:56.436600 2015] [mpm_winnt:notice] [pid 78216:tid 480] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 10:27:56.462115 2015] [mpm_winnt:notice] [pid 72548:tid 568] AH00430: Parent: Child process 78216 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 10:27:56.809927 2015] [mpm_winnt:notice] [pid 69004:tid 432] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 10:27:56.809927 2015] [mpm_winnt:notice] [pid 69004:tid 432] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 10:27:56.809927 2015] [core:notice] [pid 69004:tid 432] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 10:27:56.810928 2015] [mpm_winnt:notice] [pid 69004:tid 432] AH00418: Parent: Created child process 78292
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 10:27:57.324520 2015] [mpm_winnt:notice] [pid 78292:tid 484] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 10:40:45.836723 2015] [mpm_winnt:notice] [pid 69004:tid 432] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 10:40:47.838312 2015] [mpm_winnt:notice] [pid 78292:tid 484] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 10:40:47.859827 2015] [mpm_winnt:notice] [pid 69004:tid 432] AH00430: Parent: Child process 78292 exited successfully.
+[Fri Feb 06 10:40:48.229978 2015] [mpm_winnt:notice] [pid 78320:tid 552] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 10:40:48.229978 2015] [mpm_winnt:notice] [pid 78320:tid 552] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 10:40:48.229978 2015] [core:notice] [pid 78320:tid 552] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 10:40:48.231979 2015] [mpm_winnt:notice] [pid 78320:tid 552] AH00418: Parent: Created child process 62160
+[Fri Feb 06 10:40:48.694820 2015] [mpm_winnt:notice] [pid 62160:tid 464] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 10:42:13.366799 2015] [access_compat:error] [pid 62160:tid 988] [client ::1:56576] AH01797: client denied by server configuration: C:/wamp/www/test_app/
+[Fri Feb 06 10:42:17.242907 2015] [access_compat:error] [pid 62160:tid 988] [client ::1:56576] AH01797: client denied by server configuration: C:/wamp/www/test_app/
+[Fri Feb 06 10:42:26.286615 2015] [access_compat:error] [pid 62160:tid 988] [client ::1:56577] AH01797: client denied by server configuration: C:/wamp/www/test_app/
+[Fri Feb 06 10:42:53.199603 2015] [mpm_winnt:notice] [pid 78320:tid 552] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 10:42:55.200778 2015] [mpm_winnt:notice] [pid 62160:tid 464] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 10:42:55.223291 2015] [mpm_winnt:notice] [pid 78320:tid 552] AH00430: Parent: Child process 62160 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+[Fri Feb 06 10:48:50.876708 2015] [mpm_winnt:notice] [pid 73588:tid 552] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 10:48:50.876708 2015] [mpm_winnt:notice] [pid 73588:tid 552] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 10:48:50.876708 2015] [core:notice] [pid 73588:tid 552] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 10:48:50.878709 2015] [mpm_winnt:notice] [pid 73588:tid 552] AH00418: Parent: Created child process 79628
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+[Fri Feb 06 10:48:51.315760 2015] [mpm_winnt:notice] [pid 79628:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 10:48:58.657381 2015] [mpm_winnt:notice] [pid 73588:tid 552] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 10:49:00.658105 2015] [mpm_winnt:notice] [pid 79628:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 10:49:00.676618 2015] [mpm_winnt:notice] [pid 73588:tid 552] AH00430: Parent: Child process 79628 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+[Fri Feb 06 10:49:01.107494 2015] [mpm_winnt:notice] [pid 77020:tid 552] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 10:49:01.107494 2015] [mpm_winnt:notice] [pid 77020:tid 552] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 10:49:01.107494 2015] [core:notice] [pid 77020:tid 552] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 10:49:01.110501 2015] [mpm_winnt:notice] [pid 77020:tid 552] AH00418: Parent: Created child process 71112
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+[Fri Feb 06 10:49:01.564698 2015] [mpm_winnt:notice] [pid 71112:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 10:50:32.438316 2015] [mpm_winnt:notice] [pid 77020:tid 552] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 10:50:34.440469 2015] [mpm_winnt:notice] [pid 71112:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 10:50:34.466255 2015] [mpm_winnt:notice] [pid 77020:tid 552] AH00430: Parent: Child process 71112 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 10:50:34.803351 2015] [mpm_winnt:notice] [pid 76968:tid 452] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 10:50:34.803351 2015] [mpm_winnt:notice] [pid 76968:tid 452] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 10:50:34.803351 2015] [core:notice] [pid 76968:tid 452] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 10:50:34.805350 2015] [mpm_winnt:notice] [pid 76968:tid 452] AH00418: Parent: Created child process 76988
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 10:50:35.316826 2015] [mpm_winnt:notice] [pid 76988:tid 484] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 10:55:30.164461 2015] [mpm_winnt:notice] [pid 76968:tid 452] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 10:55:32.165615 2015] [mpm_winnt:notice] [pid 76988:tid 484] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 10:55:32.187630 2015] [mpm_winnt:notice] [pid 76968:tid 452] AH00430: Parent: Child process 76988 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 10:55:32.629055 2015] [mpm_winnt:notice] [pid 79948:tid 568] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 10:55:32.630055 2015] [mpm_winnt:notice] [pid 79948:tid 568] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 10:55:32.630055 2015] [core:notice] [pid 79948:tid 568] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 10:55:32.632055 2015] [mpm_winnt:notice] [pid 79948:tid 568] AH00418: Parent: Created child process 80188
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 10:55:33.009235 2015] [mpm_winnt:notice] [pid 80188:tid 480] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 11:00:19.097204 2015] [mpm_winnt:notice] [pid 79948:tid 568] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 11:00:21.097539 2015] [mpm_winnt:notice] [pid 80188:tid 480] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 11:00:21.119057 2015] [mpm_winnt:notice] [pid 79948:tid 568] AH00430: Parent: Child process 80188 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 11:00:21.547407 2015] [mpm_winnt:notice] [pid 80860:tid 560] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 11:00:21.547407 2015] [mpm_winnt:notice] [pid 80860:tid 560] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 11:00:21.547407 2015] [core:notice] [pid 80860:tid 560] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 11:00:21.549406 2015] [mpm_winnt:notice] [pid 80860:tid 560] AH00418: Parent: Created child process 80796
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 11:00:21.981809 2015] [mpm_winnt:notice] [pid 80796:tid 480] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 11:01:41.113433 2015] [mpm_winnt:notice] [pid 80860:tid 560] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 11:01:43.115067 2015] [mpm_winnt:notice] [pid 80796:tid 480] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 11:01:43.141083 2015] [mpm_winnt:notice] [pid 80860:tid 560] AH00430: Parent: Child process 80796 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 11:01:43.506786 2015] [mpm_winnt:notice] [pid 68652:tid 560] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 11:01:43.507787 2015] [mpm_winnt:notice] [pid 68652:tid 560] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 11:01:43.507787 2015] [core:notice] [pid 68652:tid 560] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 11:01:43.508787 2015] [mpm_winnt:notice] [pid 68652:tid 560] AH00418: Parent: Created child process 75764
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 11:01:44.086911 2015] [mpm_winnt:notice] [pid 75764:tid 480] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 11:05:19.759042 2015] [mpm_winnt:notice] [pid 68652:tid 560] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 11:05:21.760564 2015] [mpm_winnt:notice] [pid 75764:tid 480] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 11:05:21.787081 2015] [mpm_winnt:notice] [pid 68652:tid 560] AH00430: Parent: Child process 75764 exited successfully.
+[Fri Feb 06 11:05:22.194474 2015] [mpm_winnt:notice] [pid 80360:tid 620] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 11:05:22.194474 2015] [mpm_winnt:notice] [pid 80360:tid 620] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 11:05:22.194474 2015] [core:notice] [pid 80360:tid 620] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 11:05:22.195473 2015] [mpm_winnt:notice] [pid 80360:tid 620] AH00418: Parent: Created child process 80400
+[Fri Feb 06 11:05:22.632225 2015] [mpm_winnt:notice] [pid 80400:tid 464] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 12:59:06.500696 2015] [mpm_winnt:notice] [pid 80360:tid 620] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 12:59:08.502373 2015] [mpm_winnt:notice] [pid 80400:tid 464] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 12:59:08.569417 2015] [mpm_winnt:notice] [pid 80360:tid 620] AH00430: Parent: Child process 80400 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 12:59:08.923145 2015] [mpm_winnt:notice] [pid 80268:tid 560] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 12:59:08.923145 2015] [mpm_winnt:notice] [pid 80268:tid 560] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 12:59:08.923145 2015] [core:notice] [pid 80268:tid 560] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 12:59:08.924145 2015] [mpm_winnt:notice] [pid 80268:tid 560] AH00418: Parent: Created child process 75160
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 12:59:09.405055 2015] [mpm_winnt:notice] [pid 75160:tid 480] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 12:59:53.674054 2015] [mpm_winnt:notice] [pid 80268:tid 560] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 12:59:55.674735 2015] [mpm_winnt:notice] [pid 75160:tid 480] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 12:59:55.740280 2015] [mpm_winnt:notice] [pid 80268:tid 560] AH00430: Parent: Child process 75160 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 12:59:56.113440 2015] [mpm_winnt:notice] [pid 84336:tid 560] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 12:59:56.114439 2015] [mpm_winnt:notice] [pid 84336:tid 560] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 12:59:56.114439 2015] [core:notice] [pid 84336:tid 560] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 12:59:56.116441 2015] [mpm_winnt:notice] [pid 84336:tid 560] AH00418: Parent: Created child process 70176
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 12:59:56.474454 2015] [mpm_winnt:notice] [pid 70176:tid 488] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 14:11:02.465330 2015] [mpm_winnt:notice] [pid 84336:tid 560] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 14:11:04.466297 2015] [mpm_winnt:notice] [pid 70176:tid 488] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 14:11:04.544351 2015] [mpm_winnt:notice] [pid 84336:tid 560] AH00430: Parent: Child process 70176 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 14:11:05.073743 2015] [mpm_winnt:notice] [pid 72612:tid 560] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 14:11:05.073743 2015] [mpm_winnt:notice] [pid 72612:tid 560] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 14:11:05.073743 2015] [core:notice] [pid 72612:tid 560] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 14:11:05.074744 2015] [mpm_winnt:notice] [pid 72612:tid 560] AH00418: Parent: Created child process 59312
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 14:11:05.625083 2015] [mpm_winnt:notice] [pid 59312:tid 488] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 14:15:58.241021 2015] [mpm_winnt:notice] [pid 72612:tid 560] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 14:16:00.242765 2015] [mpm_winnt:notice] [pid 59312:tid 488] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 14:16:00.264780 2015] [mpm_winnt:notice] [pid 72612:tid 560] AH00430: Parent: Child process 59312 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 14:16:00.617600 2015] [mpm_winnt:notice] [pid 74620:tid 560] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 14:16:00.618100 2015] [mpm_winnt:notice] [pid 74620:tid 560] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 14:16:00.618100 2015] [core:notice] [pid 74620:tid 560] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 14:16:00.619101 2015] [mpm_winnt:notice] [pid 74620:tid 560] AH00418: Parent: Created child process 77424
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 14:16:01.093720 2015] [mpm_winnt:notice] [pid 77424:tid 480] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 14:16:51.947487 2015] [access_compat:error] [pid 77424:tid 1000] [client 127.0.0.1:57098] AH01797: client denied by server configuration: C:/Users/Oscar/workspace/test_app2/
+[Fri Feb 06 14:16:54.668584 2015] [access_compat:error] [pid 77424:tid 1000] [client 127.0.0.1:57098] AH01797: client denied by server configuration: C:/Users/Oscar/workspace/test_app2/
+[Fri Feb 06 14:17:01.651648 2015] [access_compat:error] [pid 77424:tid 996] [client 127.0.0.1:57099] AH01797: client denied by server configuration: C:/Users/Oscar/workspace/test_app2/
+[Fri Feb 06 14:17:30.624152 2015] [mpm_winnt:notice] [pid 74620:tid 560] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 14:17:32.624798 2015] [mpm_winnt:notice] [pid 77424:tid 480] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 14:17:32.730370 2015] [mpm_winnt:notice] [pid 74620:tid 560] AH00430: Parent: Child process 77424 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 14:17:33.202946 2015] [mpm_winnt:notice] [pid 80976:tid 560] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 14:17:33.202946 2015] [mpm_winnt:notice] [pid 80976:tid 560] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 14:17:33.202946 2015] [core:notice] [pid 80976:tid 560] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 14:17:33.203944 2015] [mpm_winnt:notice] [pid 80976:tid 560] AH00418: Parent: Created child process 83864
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 14:17:33.649250 2015] [mpm_winnt:notice] [pid 83864:tid 488] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 14:17:57.548523 2015] [mpm_winnt:notice] [pid 80976:tid 560] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 14:17:59.549555 2015] [mpm_winnt:notice] [pid 83864:tid 488] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 14:17:59.567567 2015] [mpm_winnt:notice] [pid 80976:tid 560] AH00430: Parent: Child process 83864 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 14:17:59.950003 2015] [mpm_winnt:notice] [pid 84160:tid 560] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 14:17:59.950003 2015] [mpm_winnt:notice] [pid 84160:tid 560] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 14:17:59.950003 2015] [core:notice] [pid 84160:tid 560] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 14:17:59.951004 2015] [mpm_winnt:notice] [pid 84160:tid 560] AH00418: Parent: Created child process 78896
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 14:18:00.371573 2015] [mpm_winnt:notice] [pid 78896:tid 480] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 14:20:04.252389 2015] [mpm_winnt:notice] [pid 84160:tid 560] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 14:20:06.254048 2015] [mpm_winnt:notice] [pid 78896:tid 480] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 14:20:06.324094 2015] [mpm_winnt:notice] [pid 84160:tid 560] AH00430: Parent: Child process 78896 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 14:21:18.824093 2015] [mpm_winnt:notice] [pid 84748:tid 560] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 14:21:18.824093 2015] [mpm_winnt:notice] [pid 84748:tid 560] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 14:21:18.824093 2015] [core:notice] [pid 84748:tid 560] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 14:21:18.825646 2015] [mpm_winnt:notice] [pid 84748:tid 560] AH00418: Parent: Created child process 75880
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 14:21:19.183526 2015] [mpm_winnt:notice] [pid 75880:tid 480] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 14:21:34.219464 2015] [mpm_winnt:notice] [pid 84748:tid 560] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 14:21:36.220579 2015] [mpm_winnt:notice] [pid 75880:tid 480] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 14:21:36.238591 2015] [mpm_winnt:notice] [pid 84748:tid 560] AH00430: Parent: Child process 75880 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 14:21:36.700605 2015] [mpm_winnt:notice] [pid 83052:tid 560] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 14:21:36.700605 2015] [mpm_winnt:notice] [pid 83052:tid 560] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 14:21:36.700605 2015] [core:notice] [pid 83052:tid 560] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 14:21:36.701605 2015] [mpm_winnt:notice] [pid 83052:tid 560] AH00418: Parent: Created child process 84252
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 14:21:37.063502 2015] [mpm_winnt:notice] [pid 84252:tid 480] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 14:30:02.905466 2015] [mpm_winnt:notice] [pid 83052:tid 560] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 14:30:04.907630 2015] [mpm_winnt:notice] [pid 84252:tid 480] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 14:30:04.992173 2015] [mpm_winnt:notice] [pid 83052:tid 560] AH00430: Parent: Child process 84252 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+[Fri Feb 06 14:30:08.582788 2015] [mpm_winnt:notice] [pid 82952:tid 560] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 14:30:08.582788 2015] [mpm_winnt:notice] [pid 82952:tid 560] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 14:30:08.582788 2015] [core:notice] [pid 82952:tid 560] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 14:30:08.583789 2015] [mpm_winnt:notice] [pid 82952:tid 560] AH00418: Parent: Created child process 77312
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+[Fri Feb 06 14:30:08.970512 2015] [mpm_winnt:notice] [pid 77312:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 14:30:13.087106 2015] [mpm_winnt:notice] [pid 82952:tid 560] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 14:30:15.088710 2015] [mpm_winnt:notice] [pid 77312:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 14:30:15.106723 2015] [mpm_winnt:notice] [pid 82952:tid 560] AH00430: Parent: Child process 77312 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+[Fri Feb 06 14:30:15.535196 2015] [mpm_winnt:notice] [pid 72600:tid 556] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 14:30:15.535196 2015] [mpm_winnt:notice] [pid 72600:tid 556] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 14:30:15.535196 2015] [core:notice] [pid 72600:tid 556] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 14:30:15.536197 2015] [mpm_winnt:notice] [pid 72600:tid 556] AH00418: Parent: Created child process 77944
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+[Fri Feb 06 14:30:15.979694 2015] [mpm_winnt:notice] [pid 77944:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 14:43:51.959219 2015] [mpm_winnt:notice] [pid 72600:tid 556] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 14:43:53.960217 2015] [mpm_winnt:notice] [pid 77944:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 14:43:53.986179 2015] [mpm_winnt:notice] [pid 72600:tid 556] AH00430: Parent: Child process 77944 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+[Fri Feb 06 14:43:54.390510 2015] [mpm_winnt:notice] [pid 82012:tid 552] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 14:43:54.390510 2015] [mpm_winnt:notice] [pid 82012:tid 552] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 14:43:54.390510 2015] [core:notice] [pid 82012:tid 552] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 14:43:54.391500 2015] [mpm_winnt:notice] [pid 82012:tid 552] AH00418: Parent: Created child process 79676
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+[Fri Feb 06 14:43:54.737582 2015] [mpm_winnt:notice] [pid 79676:tid 484] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 14:50:50.877167 2015] [mpm_winnt:notice] [pid 82012:tid 552] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 14:50:52.878364 2015] [mpm_winnt:notice] [pid 79676:tid 484] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 14:50:52.905381 2015] [mpm_winnt:notice] [pid 82012:tid 552] AH00430: Parent: Child process 79676 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+[Fri Feb 06 14:50:53.389866 2015] [mpm_winnt:notice] [pid 80652:tid 568] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 14:50:53.389866 2015] [mpm_winnt:notice] [pid 80652:tid 568] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 14:50:53.389866 2015] [core:notice] [pid 80652:tid 568] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 14:50:53.390865 2015] [mpm_winnt:notice] [pid 80652:tid 568] AH00418: Parent: Created child process 82604
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+[Fri Feb 06 14:50:53.854436 2015] [mpm_winnt:notice] [pid 82604:tid 476] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 14:52:50.253925 2015] [mpm_winnt:notice] [pid 80652:tid 568] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 14:52:52.254385 2015] [mpm_winnt:notice] [pid 82604:tid 476] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 14:52:52.282903 2015] [mpm_winnt:notice] [pid 80652:tid 568] AH00430: Parent: Child process 82604 exited successfully.
+[Fri Feb 06 14:52:52.631458 2015] [mpm_winnt:notice] [pid 83360:tid 544] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 14:52:52.631458 2015] [mpm_winnt:notice] [pid 83360:tid 544] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 14:52:52.631458 2015] [core:notice] [pid 83360:tid 544] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 14:52:52.633457 2015] [mpm_winnt:notice] [pid 83360:tid 544] AH00418: Parent: Created child process 78136
+[Fri Feb 06 14:52:53.025355 2015] [mpm_winnt:notice] [pid 78136:tid 464] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 14:59:39.629693 2015] [mpm_winnt:notice] [pid 83360:tid 544] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 14:59:41.630672 2015] [mpm_winnt:notice] [pid 78136:tid 464] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 14:59:41.693712 2015] [mpm_winnt:notice] [pid 83360:tid 544] AH00430: Parent: Child process 78136 exited successfully.
+[Fri Feb 06 15:01:52.890042 2015] [mpm_winnt:notice] [pid 80648:tid 544] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 15:01:52.890042 2015] [mpm_winnt:notice] [pid 80648:tid 544] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 15:01:52.890042 2015] [core:notice] [pid 80648:tid 544] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 15:01:52.891043 2015] [mpm_winnt:notice] [pid 80648:tid 544] AH00418: Parent: Created child process 83792
+[Fri Feb 06 15:01:53.361124 2015] [mpm_winnt:notice] [pid 83792:tid 464] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 15:02:53.664847 2015] [mpm_winnt:notice] [pid 80648:tid 544] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 15:02:55.665416 2015] [mpm_winnt:notice] [pid 83792:tid 464] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 15:02:55.683429 2015] [mpm_winnt:notice] [pid 80648:tid 544] AH00430: Parent: Child process 83792 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 15:04:22.664905 2015] [mpm_winnt:notice] [pid 75044:tid 564] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 15:04:22.665905 2015] [mpm_winnt:notice] [pid 75044:tid 564] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 15:04:22.665905 2015] [core:notice] [pid 75044:tid 564] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 15:04:22.666908 2015] [mpm_winnt:notice] [pid 75044:tid 564] AH00418: Parent: Created child process 80444
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/docs/dummy-host2.example.com] does not exist
+[Fri Feb 06 15:04:23.130577 2015] [mpm_winnt:notice] [pid 80444:tid 484] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 15:05:39.002358 2015] [mpm_winnt:notice] [pid 75044:tid 564] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 15:05:41.003206 2015] [mpm_winnt:notice] [pid 80444:tid 484] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 15:05:41.029722 2015] [mpm_winnt:notice] [pid 75044:tid 564] AH00430: Parent: Child process 80444 exited successfully.
+[Fri Feb 06 15:05:41.397075 2015] [mpm_winnt:notice] [pid 81052:tid 548] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 15:05:41.397075 2015] [mpm_winnt:notice] [pid 81052:tid 548] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 15:05:41.397075 2015] [core:notice] [pid 81052:tid 548] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 15:05:41.398076 2015] [mpm_winnt:notice] [pid 81052:tid 548] AH00418: Parent: Created child process 84032
+[Fri Feb 06 15:05:41.852456 2015] [mpm_winnt:notice] [pid 84032:tid 464] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 15:06:46.603601 2015] [mpm_winnt:notice] [pid 81052:tid 548] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 15:06:48.604608 2015] [mpm_winnt:notice] [pid 84032:tid 464] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 15:06:48.630124 2015] [mpm_winnt:notice] [pid 81052:tid 548] AH00430: Parent: Child process 84032 exited successfully.
+[Fri Feb 06 15:06:49.117561 2015] [mpm_winnt:notice] [pid 76936:tid 544] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 15:06:49.118561 2015] [mpm_winnt:notice] [pid 76936:tid 544] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 15:06:49.118561 2015] [core:notice] [pid 76936:tid 544] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 15:06:49.119562 2015] [mpm_winnt:notice] [pid 76936:tid 544] AH00418: Parent: Created child process 83308
+[Fri Feb 06 15:06:49.571009 2015] [mpm_winnt:notice] [pid 83308:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 15:07:32.773164 2015] [mpm_winnt:notice] [pid 76936:tid 544] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 15:07:34.774180 2015] [mpm_winnt:notice] [pid 83308:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 15:07:34.792693 2015] [mpm_winnt:notice] [pid 76936:tid 544] AH00430: Parent: Child process 83308 exited successfully.
+[Fri Feb 06 15:07:35.122037 2015] [mpm_winnt:notice] [pid 84984:tid 544] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 15:07:35.122037 2015] [mpm_winnt:notice] [pid 84984:tid 544] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 15:07:35.122037 2015] [core:notice] [pid 84984:tid 544] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 15:07:35.123037 2015] [mpm_winnt:notice] [pid 84984:tid 544] AH00418: Parent: Created child process 81768
+[Fri Feb 06 15:07:35.583796 2015] [mpm_winnt:notice] [pid 81768:tid 468] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 15:09:12.057399 2015] [mpm_winnt:notice] [pid 84984:tid 544] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 15:09:14.059036 2015] [mpm_winnt:notice] [pid 81768:tid 468] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 15:09:14.180617 2015] [mpm_winnt:notice] [pid 84984:tid 544] AH00430: Parent: Child process 81768 exited successfully.
+[Fri Feb 06 15:09:14.660115 2015] [mpm_winnt:notice] [pid 62376:tid 544] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 15:09:14.660115 2015] [mpm_winnt:notice] [pid 62376:tid 544] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 15:09:14.660115 2015] [core:notice] [pid 62376:tid 544] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 15:09:14.661116 2015] [mpm_winnt:notice] [pid 62376:tid 544] AH00418: Parent: Created child process 84780
+[Fri Feb 06 15:09:15.127196 2015] [mpm_winnt:notice] [pid 84780:tid 464] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 15:17:47.158362 2015] [mpm_winnt:notice] [pid 62376:tid 544] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 15:17:49.159343 2015] [mpm_winnt:notice] [pid 84780:tid 464] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 15:17:49.188861 2015] [mpm_winnt:notice] [pid 62376:tid 544] AH00430: Parent: Child process 84780 exited successfully.
+[Fri Feb 06 15:20:26.374060 2015] [mpm_winnt:notice] [pid 79160:tid 544] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 15:20:26.375059 2015] [mpm_winnt:notice] [pid 79160:tid 544] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 15:20:26.375059 2015] [core:notice] [pid 79160:tid 544] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 15:20:26.376060 2015] [mpm_winnt:notice] [pid 79160:tid 544] AH00418: Parent: Created child process 80260
+[Fri Feb 06 15:20:26.854129 2015] [mpm_winnt:notice] [pid 80260:tid 464] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 15:20:54.222184 2015] [mpm_winnt:notice] [pid 79160:tid 544] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 15:20:56.223437 2015] [mpm_winnt:notice] [pid 80260:tid 464] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 15:20:56.299987 2015] [mpm_winnt:notice] [pid 79160:tid 544] AH00430: Parent: Child process 80260 exited successfully.
+[Fri Feb 06 15:20:56.640215 2015] [mpm_winnt:notice] [pid 83148:tid 548] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 15:20:56.640215 2015] [mpm_winnt:notice] [pid 83148:tid 548] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 15:20:56.640215 2015] [core:notice] [pid 83148:tid 548] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 15:20:56.641215 2015] [mpm_winnt:notice] [pid 83148:tid 548] AH00418: Parent: Created child process 83088
+[Fri Feb 06 15:20:57.162190 2015] [mpm_winnt:notice] [pid 83088:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 06 15:47:58.801950 2015] [mpm_winnt:notice] [pid 83148:tid 548] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 06 15:48:00.803417 2015] [mpm_winnt:notice] [pid 83088:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Feb 06 15:48:00.829434 2015] [mpm_winnt:notice] [pid 83148:tid 548] AH00430: Parent: Child process 83088 exited successfully.
+[Fri Feb 06 15:48:01.253294 2015] [mpm_winnt:notice] [pid 84332:tid 548] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Feb 06 15:48:01.253294 2015] [mpm_winnt:notice] [pid 84332:tid 548] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Feb 06 15:48:01.253294 2015] [core:notice] [pid 84332:tid 548] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Feb 06 15:48:01.254295 2015] [mpm_winnt:notice] [pid 84332:tid 548] AH00418: Parent: Created child process 84872
+[Fri Feb 06 15:48:01.709588 2015] [mpm_winnt:notice] [pid 84872:tid 464] AH00354: Child: Starting 64 worker threads.
+[Sat Feb 07 10:27:07.974052 2015] [mpm_winnt:notice] [pid 84332:tid 548] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Feb 07 10:27:09.976540 2015] [mpm_winnt:notice] [pid 84872:tid 464] AH00364: Child: All worker threads have exited.
+[Sat Feb 07 10:27:10.126751 2015] [mpm_winnt:notice] [pid 84332:tid 548] AH00430: Parent: Child process 84872 exited successfully.
+[Wed Feb 18 21:49:39.889635 2015] [mpm_winnt:notice] [pid 1136:tid 552] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Wed Feb 18 21:49:39.919661 2015] [mpm_winnt:notice] [pid 1136:tid 552] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Wed Feb 18 21:49:39.919661 2015] [core:notice] [pid 1136:tid 552] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Wed Feb 18 21:49:39.921657 2015] [mpm_winnt:notice] [pid 1136:tid 552] AH00418: Parent: Created child process 22512
+[Wed Feb 18 21:49:40.348899 2015] [mpm_winnt:notice] [pid 22512:tid 456] AH00354: Child: Starting 64 worker threads.
+[Wed Feb 18 21:50:36.785766 2015] [mpm_winnt:notice] [pid 1136:tid 552] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Feb 18 21:50:38.787460 2015] [mpm_winnt:notice] [pid 22512:tid 456] AH00364: Child: All worker threads have exited.
+[Wed Feb 18 21:50:38.838495 2015] [mpm_winnt:notice] [pid 1136:tid 552] AH00430: Parent: Child process 22512 exited successfully.
+[Wed Feb 18 21:50:39.325396 2015] [mpm_winnt:notice] [pid 24292:tid 552] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Wed Feb 18 21:50:39.325396 2015] [mpm_winnt:notice] [pid 24292:tid 552] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Wed Feb 18 21:50:39.325396 2015] [core:notice] [pid 24292:tid 552] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Wed Feb 18 21:50:39.326396 2015] [mpm_winnt:notice] [pid 24292:tid 552] AH00418: Parent: Created child process 22504
+[Wed Feb 18 21:50:39.690013 2015] [mpm_winnt:notice] [pid 22504:tid 468] AH00354: Child: Starting 64 worker threads.
+[Wed Feb 18 23:19:06.056967 2015] [mpm_winnt:notice] [pid 24292:tid 552] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Feb 18 23:19:08.067311 2015] [mpm_winnt:notice] [pid 22504:tid 468] AH00364: Child: All worker threads have exited.
+[Wed Feb 18 23:19:08.138765 2015] [mpm_winnt:notice] [pid 24292:tid 552] AH00430: Parent: Child process 22504 exited successfully.
+[Thu Feb 19 18:34:44.939881 2015] [mpm_winnt:notice] [pid 4828:tid 520] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Thu Feb 19 18:34:44.939881 2015] [mpm_winnt:notice] [pid 4828:tid 520] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Thu Feb 19 18:34:44.939881 2015] [core:notice] [pid 4828:tid 520] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Thu Feb 19 18:34:44.941383 2015] [mpm_winnt:notice] [pid 4828:tid 520] AH00418: Parent: Created child process 26276
+[Thu Feb 19 18:34:45.428707 2015] [mpm_winnt:notice] [pid 26276:tid 456] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 19 18:45:00.785267 2015] [:error] [pid 26276:tid 980] [client 127.0.0.1:49722] script 'C:/Users/Oscar/workspace/test_app2/oscar.php' not found or unable to stat
+[Thu Feb 19 18:45:07.306015 2015] [:error] [pid 26276:tid 952] [client 127.0.0.1:49728] script 'C:/Users/Oscar/workspace/test_app2/chris.php' not found or unable to stat
+[Thu Feb 19 18:56:25.370906 2015] [core:alert] [pid 26276:tid 952] [client 127.0.0.1:49808] C:/Users/Oscar/workspace/test_app2/.htaccess: Invalid command 'aqwetasdofi', perhaps misspelled or defined by a module not included in the server configuration
+[Thu Feb 19 19:01:11.976899 2015] [core:alert] [pid 26276:tid 980] [client 127.0.0.1:49905] C:/Users/Oscar/workspace/test_app2/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Thu Feb 19 19:01:12.880083 2015] [core:alert] [pid 26276:tid 952] [client 127.0.0.1:49906] C:/Users/Oscar/workspace/test_app2/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Thu Feb 19 19:01:28.788288 2015] [core:alert] [pid 26276:tid 980] [client 127.0.0.1:49915] C:/Users/Oscar/workspace/test_app2/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Thu Feb 19 19:01:42.696712 2015] [core:alert] [pid 26276:tid 936] [client 127.0.0.1:49916] C:/Users/Oscar/workspace/test_app2/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Thu Feb 19 19:01:43.248639 2015] [core:alert] [pid 26276:tid 920] [client 127.0.0.1:49918] C:/Users/Oscar/workspace/test_app2/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Thu Feb 19 19:05:42.742909 2015] [core:alert] [pid 26276:tid 936] [client 127.0.0.1:49948] C:/Users/Oscar/workspace/test_app2/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Thu Feb 19 19:05:45.967760 2015] [core:alert] [pid 26276:tid 936] [client 127.0.0.1:49949] C:/Users/Oscar/workspace/test_app2/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Thu Feb 19 19:05:48.927215 2015] [core:alert] [pid 26276:tid 920] [client 127.0.0.1:49950] C:/Users/Oscar/workspace/test_app2/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Thu Feb 19 19:23:34.784209 2015] [mpm_winnt:notice] [pid 4828:tid 520] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Feb 19 19:23:36.785695 2015] [mpm_winnt:notice] [pid 26276:tid 456] AH00364: Child: All worker threads have exited.
+[Thu Feb 19 19:23:36.914782 2015] [mpm_winnt:notice] [pid 4828:tid 520] AH00430: Parent: Child process 26276 exited successfully.
+[Thu Feb 19 19:23:38.462895 2015] [mpm_winnt:notice] [pid 27228:tid 552] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Thu Feb 19 19:23:38.462895 2015] [mpm_winnt:notice] [pid 27228:tid 552] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Thu Feb 19 19:23:38.462895 2015] [core:notice] [pid 27228:tid 552] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Thu Feb 19 19:23:38.464898 2015] [mpm_winnt:notice] [pid 27228:tid 552] AH00418: Parent: Created child process 25960
+[Thu Feb 19 19:23:39.049312 2015] [mpm_winnt:notice] [pid 25960:tid 468] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 19 19:40:17.424541 2015] [core:error] [pid 25960:tid 972] (OS 123)The filename, directory name, or volume label syntax is incorrect.  : [client 127.0.0.1:50321] AH00132: file permissions deny server access: proxy:http://test_app2.localhost/C:/Users/Oscar/workspace/test_app2/test_app.dev/index.php
+[Thu Feb 19 19:40:29.700151 2015] [core:error] [pid 25960:tid 980] (OS 123)The filename, directory name, or volume label syntax is incorrect.  : [client 127.0.0.1:50325] AH00132: file permissions deny server access: proxy:http://test_app2.localhost/C:/Users/Oscar/workspace/test_app2/test_app.dev/index.php
+[Thu Feb 19 19:40:35.760836 2015] [core:error] [pid 25960:tid 960] (OS 123)The filename, directory name, or volume label syntax is incorrect.  : [client 127.0.0.1:50326] AH00132: file permissions deny server access: proxy:http://test_app2.localhost/C:/Users/Oscar/workspace/test_app2/test_app.dev/oscar.php
+[Thu Feb 19 19:41:50.340965 2015] [core:error] [pid 25960:tid 980] (OS 123)The filename, directory name, or volume label syntax is incorrect.  : [client 127.0.0.1:50333] AH00132: file permissions deny server access: proxy:http://test_app2.localhost/C:/Users/Oscar/workspace/test_app2/test_app.dev/index.php
+[Thu Feb 19 19:42:07.463815 2015] [core:error] [pid 25960:tid 980] (OS 123)The filename, directory name, or volume label syntax is incorrect.  : [client 127.0.0.1:50335] AH00132: file permissions deny server access: proxy:http://www.test_app2.localhost/C:/Users/Oscar/workspace/test_app2/test_app.dev/index.php
+[Thu Feb 19 19:47:53.145772 2015] [core:error] [pid 25960:tid 980] (OS 123)The filename, directory name, or volume label syntax is incorrect.  : [client 127.0.0.1:50354] AH00132: file permissions deny server access: proxy:http://www.test_app2.localhost/C:/Users/Oscar/workspace/test_app2/test_app.dev/index.php
+[Thu Feb 19 19:47:53.687164 2015] [core:error] [pid 25960:tid 980] (OS 123)The filename, directory name, or volume label syntax is incorrect.  : [client 127.0.0.1:50354] AH00132: file permissions deny server access: proxy:http://www.test_app2.localhost/C:/Users/Oscar/workspace/test_app2/test_app.dev/index.php
+[Thu Feb 19 19:47:53.983151 2015] [core:error] [pid 25960:tid 980] (OS 123)The filename, directory name, or volume label syntax is incorrect.  : [client 127.0.0.1:50354] AH00132: file permissions deny server access: proxy:http://www.test_app2.localhost/C:/Users/Oscar/workspace/test_app2/test_app.dev/index.php
+[Thu Feb 19 19:56:15.384559 2015] [core:alert] [pid 25960:tid 980] [client 127.0.0.1:50508] C:/Users/Oscar/workspace/test_app2/.htaccess: <VirtualHost not allowed here
+[Thu Feb 19 19:56:33.862158 2015] [core:alert] [pid 25960:tid 972] [client 127.0.0.1:50510] C:/Users/Oscar/workspace/test_app2/.htaccess: <VirtualHost not allowed here
+[Thu Feb 19 19:56:41.569777 2015] [core:alert] [pid 25960:tid 980] [client 127.0.0.1:50511] C:/Users/Oscar/workspace/test_app2/.htaccess: <VirtualHost not allowed here
+[Thu Feb 19 19:56:49.935592 2015] [core:alert] [pid 25960:tid 972] [client 127.0.0.1:50512] C:/Users/Oscar/workspace/test_app2/.htaccess: <VirtualHost not allowed here
+[Thu Feb 19 19:57:01.434869 2015] [core:alert] [pid 25960:tid 960] [client 127.0.0.1:50546] C:/Users/Oscar/workspace/test_app2/.htaccess: <VirtualHost not allowed here
+[Thu Feb 19 19:57:39.313755 2015] [core:alert] [pid 25960:tid 956] [client 127.0.0.1:50549] C:/Users/Oscar/workspace/test_app2/.htaccess: <VirtualHost not allowed here
+[Thu Feb 19 19:57:42.457425 2015] [core:alert] [pid 25960:tid 980] [client 127.0.0.1:50550] C:/Users/Oscar/workspace/test_app2/.htaccess: <VirtualHost not allowed here
+[Thu Feb 19 19:58:20.438448 2015] [core:alert] [pid 25960:tid 956] [client 127.0.0.1:50552] C:/Users/Oscar/workspace/test_app2/.htaccess: <VirtualHost not allowed here
+[Thu Feb 19 19:58:21.059928 2015] [core:alert] [pid 25960:tid 980] [client 127.0.0.1:50553] C:/Users/Oscar/workspace/test_app2/.htaccess: <VirtualHost not allowed here
+[Thu Feb 19 19:58:26.822863 2015] [core:alert] [pid 25960:tid 956] [client 127.0.0.1:50554] C:/Users/Oscar/workspace/test_app2/.htaccess: <VirtualHost not allowed here
+[Thu Feb 19 19:59:35.652419 2015] [core:alert] [pid 25960:tid 980] [client 127.0.0.1:50612] C:/Users/Oscar/workspace/test_app2/.htaccess: <VirtualHost not allowed here
+[Thu Feb 19 19:59:36.578211 2015] [core:alert] [pid 25960:tid 956] [client 127.0.0.1:50613] C:/Users/Oscar/workspace/test_app2/.htaccess: <VirtualHost not allowed here
+[Thu Feb 19 19:59:37.001898 2015] [core:alert] [pid 25960:tid 980] [client 127.0.0.1:50614] C:/Users/Oscar/workspace/test_app2/.htaccess: <VirtualHost not allowed here
+[Thu Feb 19 20:07:55.339098 2015] [core:error] [pid 25960:tid 980] (OS 123)The filename, directory name, or volume label syntax is incorrect.  : [client 127.0.0.1:50741] AH00132: file permissions deny server access: proxy:http://test_app2.localhost/C:/Users/Oscar/workspace/test_app2/test_app.dev/index.php
+[Thu Feb 19 20:09:26.817375 2015] [core:error] [pid 25960:tid 956] [client 127.0.0.1:50803] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Feb 19 20:16:59.153802 2015] [mpm_winnt:notice] [pid 27228:tid 552] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Feb 19 20:17:01.154898 2015] [mpm_winnt:notice] [pid 25960:tid 468] AH00364: Child: All worker threads have exited.
+[Thu Feb 19 20:17:01.191421 2015] [mpm_winnt:notice] [pid 27228:tid 552] AH00430: Parent: Child process 25960 exited successfully.
+[Thu Feb 19 20:17:02.926444 2015] [mpm_winnt:notice] [pid 6728:tid 544] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Thu Feb 19 20:17:02.926444 2015] [mpm_winnt:notice] [pid 6728:tid 544] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Thu Feb 19 20:17:02.926444 2015] [core:notice] [pid 6728:tid 544] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Thu Feb 19 20:17:02.928446 2015] [mpm_winnt:notice] [pid 6728:tid 544] AH00418: Parent: Created child process 5440
+[Thu Feb 19 20:17:03.583983 2015] [mpm_winnt:notice] [pid 5440:tid 468] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 19 22:23:54.920211 2015] [core:error] [pid 5440:tid 1016] [client 127.0.0.1:53374] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Feb 19 22:24:26.205080 2015] [core:error] [pid 5440:tid 1016] [client 127.0.0.1:53379] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Feb 19 22:25:11.295448 2015] [core:error] [pid 5440:tid 1016] [client 127.0.0.1:53384] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Feb 19 22:25:15.709004 2015] [core:error] [pid 5440:tid 1016] [client 127.0.0.1:53386] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Feb 19 22:25:19.207161 2015] [core:error] [pid 5440:tid 1016] [client 127.0.0.1:53387] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Feb 19 22:25:36.263853 2015] [core:error] [pid 5440:tid 1016] [client 127.0.0.1:53388] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Feb 19 22:25:49.828866 2015] [core:error] [pid 5440:tid 1016] [client 127.0.0.1:53390] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Feb 19 22:26:02.411656 2015] [core:error] [pid 5440:tid 1016] [client 127.0.0.1:53391] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Feb 19 22:26:08.861826 2015] [core:error] [pid 5440:tid 1016] [client 127.0.0.1:53392] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Feb 19 22:28:06.039304 2015] [core:error] [pid 5440:tid 1016] [client 127.0.0.1:53400] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Feb 19 22:29:17.151260 2015] [core:error] [pid 5440:tid 1016] [client 127.0.0.1:53406] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Feb 19 22:29:19.733355 2015] [core:error] [pid 5440:tid 1016] [client 127.0.0.1:53407] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Feb 19 22:32:27.972947 2015] [core:error] [pid 5440:tid 1016] [client 127.0.0.1:53500] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Feb 19 22:33:07.747001 2015] [core:error] [pid 5440:tid 1016] [client 127.0.0.1:53503] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Feb 19 22:34:53.650684 2015] [core:error] [pid 5440:tid 1016] [client 127.0.0.1:53513] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Thu Feb 19 22:39:59.545410 2015] [core:error] [pid 5440:tid 1016] [client 127.0.0.1:53531] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Feb 20 08:36:18.512484 2015] [core:alert] [pid 5440:tid 1016] [client 127.0.0.1:54346] C:/Users/Oscar/workspace/test_app2/.htaccess: RewriteRule: bad flag delimiters
+[Fri Feb 20 08:47:24.614713 2015] [core:error] [pid 5440:tid 980] [client 127.0.0.1:54501] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Feb 20 08:48:23.325498 2015] [core:error] [pid 5440:tid 980] [client 127.0.0.1:54505] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Mar 06 08:15:35.295865 2015] [core:warn] [pid 107636:tid 424] AH00098: pid file C:/wamp/bin/apache/apache2.4.9/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Mar 06 08:15:36.779187 2015] [mpm_winnt:notice] [pid 107636:tid 424] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Fri Mar 06 08:15:36.779187 2015] [mpm_winnt:notice] [pid 107636:tid 424] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Mar 06 08:15:36.779187 2015] [core:notice] [pid 107636:tid 424] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Mar 06 08:15:36.781188 2015] [mpm_winnt:notice] [pid 107636:tid 424] AH00418: Parent: Created child process 104676
+[Fri Mar 06 08:15:37.280925 2015] [mpm_winnt:notice] [pid 104676:tid 472] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 10 00:17:36.546336 2015] [mpm_winnt:notice] [pid 107636:tid 424] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 10 00:17:38.967113 2015] [mpm_winnt:notice] [pid 104676:tid 472] AH00364: Child: All worker threads have exited.
+[Tue Mar 10 00:17:42.367653 2015] [mpm_winnt:notice] [pid 107636:tid 424] AH00430: Parent: Child process 104676 exited successfully.
