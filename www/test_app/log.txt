@@ -220,3 +220,90 @@
 04:51:57am Query run
 04:51:57am Rows fetched from query = 2
 04:51:57am --------------------------DONE--------------------------
+03:21:28am Post acquired
+03:21:28am Input is: oscar
+03:21:28am Link with db established
+03:21:28am Query run
+03:21:28am Rows fetched from query = 2
+03:21:28am --------------------------DONE--------------------------
+03:23:35am Post acquired
+03:23:35am Input is: cesar
+03:23:35am Link with db established
+03:23:35am Query run
+03:23:35am Rows fetched from query = 1
+03:23:35am --------------------------DONE--------------------------
+04:33:21am Post acquired
+04:33:21am Input is: oscar
+04:33:21am Link with db established
+04:33:21am Query run
+04:33:21am Rows fetched from query = 2
+04:33:21am --------------------------DONE--------------------------
+04:33:24am Post acquired
+04:33:24am Input is: cesar
+04:33:24am Link with db established
+04:33:24am Query run
+04:33:24am Rows fetched from query = 1
+04:33:24am --------------------------DONE--------------------------
+04:34:09am Post acquired
+04:34:09am Input is: oscar
+04:34:11am --------------------------DONE--------------------------
+04:34:17am Post acquired
+04:34:17am Input is: cesar
+04:34:18am --------------------------DONE--------------------------
+04:35:24am Post acquired
+04:35:24am Input is: cesar
+04:35:25am --------------------------DONE--------------------------
+06:17:00am Post acquired
+06:17:00am Input is: cesar
+06:17:00am Link with db established
+06:17:00am Query run
+06:17:00am Rows fetched from query = 1
+06:17:00am --------------------------DONE--------------------------
+09:01:14am Post acquired
+09:01:14am Input is: cesar
+09:01:14am Link with db established
+09:01:15am Query run
+09:01:15am Rows fetched from query = 1
+09:01:15am --------------------------DONE--------------------------
+09:02:04am Post acquired
+09:02:04am Input is: cesar
+09:02:04am Link with db established
+09:02:04am Query run
+09:02:04am Rows fetched from query = 1
+09:02:04am --------------------------DONE--------------------------
+09:05:33am Post acquired
+09:05:33am Input is: cesar
+09:05:33am Link with db established
+09:05:34am Query run
+09:05:34am Rows fetched from query = 1
+09:05:34am --------------------------DONE--------------------------
+09:41:48am Post acquired
+09:41:48am Input is: cesar
+09:41:48am Link with db established
+09:41:48am Query run
+09:41:48am Rows fetched from query = 1
+09:41:48am --------------------------DONE--------------------------
+09:42:36am Post acquired
+09:42:36am Input is: cesar
+09:42:36am Link with db established
+09:42:36am Query run
+09:42:36am Rows fetched from query = 1
+09:42:36am --------------------------DONE--------------------------
+10:53:39am Post acquired
+10:53:39am Input is: cesar
+10:53:39am Link with db established
+10:53:39am Query run
+10:53:39am Rows fetched from query = 1
+10:53:39am --------------------------DONE--------------------------
+03:47:39pm Post acquired
+03:47:39pm Input is: cesar
+03:47:39pm Link with db established
+03:47:39pm Query run
+03:47:39pm Rows fetched from query = 1
+03:47:39pm --------------------------DONE--------------------------
+08:40:03pm Post acquired
+08:40:04pm Input is: oscar
+08:40:04pm Link with db established
+08:40:04pm Query run
+08:40:04pm Rows fetched from query = 2
+08:40:04pm --------------------------DONE--------------------------
