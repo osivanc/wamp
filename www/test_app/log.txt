@@ -307,3 +307,39 @@
 08:40:04pm Query run
 08:40:04pm Rows fetched from query = 2
 08:40:04pm --------------------------DONE--------------------------
+10:20:10pm Post acquired
+10:20:10pm Input is: oscar
+10:20:10pm Link with db established
+10:20:10pm Query run
+10:20:10pm Rows fetched from query = 2
+10:20:10pm --------------------------DONE--------------------------
+10:20:13pm Post acquired
+10:20:13pm Input is: oscar
+10:20:13pm Link with db established
+10:20:13pm Query run
+10:20:13pm Rows fetched from query = 2
+10:20:13pm --------------------------DONE--------------------------
+10:20:16pm Post acquired
+10:20:16pm Input is: cesar
+10:20:16pm Link with db established
+10:20:16pm Query run
+10:20:16pm Rows fetched from query = 1
+10:20:16pm --------------------------DONE--------------------------
+10:20:19pm Post acquired
+10:20:19pm Input is: edar
+10:20:19pm Link with db established
+10:20:19pm Query run
+10:20:19pm Rows fetched from query = 0
+10:20:19pm --------------------------DONE--------------------------
+10:20:25pm Post acquired
+10:20:25pm Input is: .
+10:20:25pm Link with db established
+10:20:25pm Query run
+10:20:25pm Rows fetched from query = 0
+10:20:25pm --------------------------DONE--------------------------
+10:23:09pm Post acquired
+10:23:09pm Input is: oscar
+10:23:09pm Link with db established
+10:23:09pm Query run
+10:23:09pm Rows fetched from query = 2
+10:23:09pm --------------------------DONE--------------------------
