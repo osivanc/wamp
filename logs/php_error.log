@@ -1687,3 +1687,11 @@ Stack trace:
  in Unknown on line 0
 [04-Aug-2015 20:19:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
  in Unknown on line 0
+[04-Aug-2015 20:36:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[04-Aug-2015 20:36:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[04-Aug-2015 20:36:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[04-Aug-2015 20:36:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0

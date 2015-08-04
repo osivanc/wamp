@@ -1460,3 +1460,14 @@ AH00112: Warning: DocumentRoot [C:/Users/Oscar/workspace/test_app2] does not exi
 AH00112: Warning: DocumentRoot [C:/Users/Oscar/workspace/test_app2] does not exist
 AH00112: Warning: DocumentRoot [C:/Users/Oscar/workspace/test_app2] does not exist
 [Tue Aug 04 15:19:44.194487 2015] [mpm_winnt:notice] [pid 8580:tid 604] AH00354: Child: Starting 64 worker threads.
+[Tue Aug 04 15:33:46.833866 2015] [mpm_winnt:notice] [pid 5864:tid 660] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Aug 04 15:33:48.836271 2015] [mpm_winnt:notice] [pid 8580:tid 604] AH00364: Child: All worker threads have exited.
+[Tue Aug 04 15:33:48.861138 2015] [mpm_winnt:notice] [pid 5864:tid 660] AH00430: Parent: Child process 8580 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Users/Oscar/workspace/test_app2] does not exist
+[Tue Aug 04 15:36:19.354579 2015] [mpm_winnt:notice] [pid 9648:tid 692] AH00455: Apache/2.4.9 (Win64) configured -- resuming normal operations
+[Tue Aug 04 15:36:19.354579 2015] [mpm_winnt:notice] [pid 9648:tid 692] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Tue Aug 04 15:36:19.354579 2015] [core:notice] [pid 9648:tid 692] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Tue Aug 04 15:36:19.355579 2015] [mpm_winnt:notice] [pid 9648:tid 692] AH00418: Parent: Created child process 4836
+AH00112: Warning: DocumentRoot [C:/Users/Oscar/workspace/test_app2] does not exist
+AH00112: Warning: DocumentRoot [C:/Users/Oscar/workspace/test_app2] does not exist
+[Tue Aug 04 15:36:19.741296 2015] [mpm_winnt:notice] [pid 4836:tid 624] AH00354: Child: Starting 64 worker threads.

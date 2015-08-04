@@ -343,3 +343,15 @@
 10:23:09pm Query run
 10:23:09pm Rows fetched from query = 2
 10:23:09pm --------------------------DONE--------------------------
+10:36:57pm Post acquired
+10:36:57pm Input is: cesar
+10:36:57pm Link with db established
+10:36:57pm Query run
+10:36:57pm Rows fetched from query = 1
+10:36:57pm --------------------------DONE--------------------------
+10:36:59pm Post acquired
+10:36:59pm Input is: oscar
+10:36:59pm Link with db established
+10:36:59pm Query run
+10:36:59pm Rows fetched from query = 2
+10:36:59pm --------------------------DONE--------------------------
